@@ -171,6 +171,6 @@ class CharacterFeat
      */
     public function __toString()
     {
-        return $this->getFeat()->getName();
+        return $this->getFeat()->__toString();
     }
 }

@@ -1,21 +1,21 @@
 {% extends '::base.html.twig' %}
 
 {% block content -%}
-    <h1>Condition list</h1>
+    <h1>{{ 'conditions'|trans }}</h1>
 
     <table class="table table-hover table-striped table-condensed table-responsive">
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Shortdescription</th>
-                <th>Actions</th>
+                <th>{{ 'name'|trans }}</th>
+                <th>{{ 'description'|trans }}</th>
+                <th>{{ 'actions'|trans }}</th>
             </tr>
         </thead>
         <tbody>
         {% for entity in entities %}
             <tr>
-                <td><a href="{{ path('conditions_show', { 'id': entity.id }) }}">{{ entity.name }}</a></td>
-                <td>{{ entity.shortDescription|raw }}</td>
+                <td><a href="{{ path('conditions_show', { 'id': entity.id }) }}">{{ entity|pftrans }}</a></td>
+                <td>{{ entity|pftrans('shortdesc')|raw }}</td>
                 <td><a href="{{ path('conditions_edit', { 'id': entity.id }) }}">edit</a></td>
             </tr>
         {% endfor %}

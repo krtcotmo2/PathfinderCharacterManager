@@ -20,8 +20,6 @@ namespace Troulite\PathfinderBundle\Entity;
 
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo;
-use Troulite\PathfinderBundle\Entity\Traits\Describable;
 
 /**
  * Item
@@ -39,8 +37,6 @@ use Troulite\PathfinderBundle\Entity\Traits\Describable;
  */
 class Item
 {
-    use Describable;
-
     /**
      * @var integer
      *
@@ -54,7 +50,6 @@ class Item
      * @var string
      *
      * @ORM\Column(name="name", type="string", length=255, nullable=false)
-     * @Gedmo\Translatable()
      */
     private $name;
 

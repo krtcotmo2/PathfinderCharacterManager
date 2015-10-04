@@ -21,7 +21,6 @@ namespace Troulite\PathfinderBundle\Entity;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
  * Skill
@@ -45,7 +44,6 @@ class Skill
      * @var string
      *
      * @ORM\Column(name="name", type="string", length=255)
-     * @Gedmo\Translatable()
      */
     private $name;
 
@@ -255,6 +253,6 @@ class Skill
      */
     public function __toString()
     {
-        return $this->getName();
+        return $this->getShortname();
     }
 }

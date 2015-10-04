@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+        <body>
+            <trans-unit id="98dfc436972a5fd6669c3e8e71262133" resname="favored-enemy-2-ex.name">
+                <source>favored-enemy-2-ex.name</source>
+                <target><![CDATA[Ennemi juré (+2) (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="320e2a6342076b8faf660b2296082131" resname="track-ex.name">
+                <source>track-ex.name</source>
+                <target><![CDATA[Pistage (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="4fb964aa4b15bbc22ec3ecb47026cdaf" resname="wild-empathy-ex.name">
+                <source>wild-empathy-ex.name</source>
+                <target><![CDATA[Empathie sauvage (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="765cba9c5348afa606ba607c3a2d5575" resname="endurance.name">
+                <source>endurance.name</source>
+                <target><![CDATA[Endurance]]></target>
+            </trans-unit>
+            <trans-unit id="7ae477055a9b44b443f534d09036b3c2" resname="hunter-s-bond-ex.name">
+                <source>hunter-s-bond-ex.name</source>
+                <target><![CDATA[Pacte du chasseur (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="45842c174970c26ac668a7ea3c6c2d52" resname="favored-enemy-4-ex.name">
+                <source>favored-enemy-4-ex.name</source>
+                <target><![CDATA[Ennemi juré (+4) (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="6fe95c112031ad68e037f310a4612e50" resname="woodland-stride-ex.name">
+                <source>woodland-stride-ex.name</source>
+                <target><![CDATA[Déplacement facilité (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="dce11edbbf7a17545df47f0308cc38a8" resname="swift-tracker-ex.name">
+                <source>swift-tracker-ex.name</source>
+                <target><![CDATA[Pistage accéléré (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="7110eae7cb2f59753b9e78265117d546" resname="evasion-ex.name">
+                <source>evasion-ex.name</source>
+                <target><![CDATA[Esquive totale (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="1f254134c6d12b96e4ecab0510928e1f" resname="favored-enemy-6-ex.name">
+                <source>favored-enemy-6-ex.name</source>
+                <target><![CDATA[Ennemi juré (+6) (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="e11e00073029aa2b46c432c83748dae1" resname="camouflage-ex.name">
+                <source>camouflage-ex.name</source>
+                <target><![CDATA[Camouflage (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="dee99ba3abb35779bfd81168ad9aef95" resname="favored-enemy-8-ex.name">
+                <source>favored-enemy-8-ex.name</source>
+                <target><![CDATA[Ennemi juré (+8) (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="8fd1f2a6b54d51a369b0deb9bf32ac7b" resname="improved-evasion-ex.name">
+                <source>improved-evasion-ex.name</source>
+                <target><![CDATA[Esquive surnaturelle (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="b75993d299d61800a0230be42b100d7a" resname="hide-in-plain-sight-ex.name">
+                <source>hide-in-plain-sight-ex.name</source>
+                <target><![CDATA[Discrétion totale (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="96d4ca5e5bf8a51721bb7afcb6a6cc36" resname="improved-quarry-ex.name">
+                <source>improved-quarry-ex.name</source>
+                <target><![CDATA[Proie du maître chasseur (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="ae3f1969f511c73200818d0173262e2a" resname="master-hunter-ex.name">
+                <source>master-hunter-ex.name</source>
+                <target><![CDATA[Maître chasseur (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="a4532bbaeee7c2efe27010cc5cc360d1" resname="favored-enemy-10-ex.name">
+                <source>favored-enemy-10-ex.name</source>
+                <target><![CDATA[Ennemi juré (+10) (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="4ad4277cf43cbdfc03f55e37ca2a9dee" resname="fast-movement-ex.name">
+                <source>fast-movement-ex.name</source>
+                <target><![CDATA[Déplacement accéléré (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="a8f974281406be0af682d26e072c6bfb" resname="rage-ex.name">
+                <source>rage-ex.name</source>
+                <target><![CDATA[Rage de berserker (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="859d2821bf8d7b298e7c6b96609455bd" resname="uncanny-dodge-ex.name">
+                <source>uncanny-dodge-ex.name</source>
+                <target><![CDATA[Esquive instinctive (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="db0c5fa752c30ed0fc17494d257679a8" resname="trap-sense-ex.name">
+                <source>trap-sense-ex.name</source>
+                <target><![CDATA[Sens des pièges (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="ca33afef4b5613e9aaecf2fd3e37acf7" resname="improved-uncanny-dodge-ex.name">
+                <source>improved-uncanny-dodge-ex.name</source>
+                <target><![CDATA[Esquive instinctive supérieure (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="8f4cf753deb9abcf474ef68f4e9a1600" resname="damage-reduction-ex.name">
+                <source>damage-reduction-ex.name</source>
+                <target><![CDATA[Réduction de dégâts (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="9dc7f12086a98d91e0055a967628708d" resname="greater-rage-ex.name">
+                <source>greater-rage-ex.name</source>
+                <target><![CDATA[Rage de grand berserker (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="dcdd13720d96f1731698f391c0183542" resname="indomitable-will-ex.name">
+                <source>indomitable-will-ex.name</source>
+                <target><![CDATA[Volonté indomptable (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="5a20571276779f6b1d579a553e4684d9" resname="tireless-rage-ex.name">
+                <source>tireless-rage-ex.name</source>
+                <target><![CDATA[Rage sans fatigue (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="492743df3bd0813bd4da5a647ff2de14" resname="mighty-rage-ex.name">
+                <source>mighty-rage-ex.name</source>
+                <target><![CDATA[Rage de maître berserker (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="7291b07856749c476d5a2fc5bedbab0a" resname="aura-of-good-ex.name">
+                <source>aura-of-good-ex.name</source>
+                <target><![CDATA[Aura de Bien (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="07635d45c9689a2cbd143c35f965fd98" resname="detect-evil.name">
+                <source>detect-evil.name</source>
+                <target><![CDATA[Détection du Mal (Mag)]]></target>
+            </trans-unit>
+            <trans-unit id="62b4fdba5c5874383651eb203757f37c" resname="smite-evil-su.name">
+                <source>smite-evil-su.name</source>
+                <target><![CDATA[Châtiment du Mal (Sur)]]></target>
+            </trans-unit>
+            <trans-unit id="6b355b257a0aa73d7e09b30b2a26e7d7" resname="divine-grace-su.name">
+                <source>divine-grace-su.name</source>
+                <target><![CDATA[Grâce divine (Sur)]]></target>
+            </trans-unit>
+            <trans-unit id="a49e413efa8fefe39ee7912c8e90c89a" resname="lay-on-hands-su.name">
+                <source>lay-on-hands-su.name</source>
+                <target><![CDATA[Imposition des mains (Sur)]]></target>
+            </trans-unit>
+            <trans-unit id="f19175c9ba9fc34cbe0c534b7176008f" resname="aura-of-courage-su.name">
+                <source>aura-of-courage-su.name</source>
+                <target><![CDATA[Aura de bravoure (Sur)]]></target>
+            </trans-unit>
+            <trans-unit id="2c1ea03d7e590b898d84375ce046fd71" resname="divine-health-ex.name">
+                <source>divine-health-ex.name</source>
+                <target><![CDATA[Santé divine (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="b579e0087bd6c39a94fb870127292f99" resname="channel-positive-energy-su.name">
+                <source>channel-positive-energy-su.name</source>
+                <target><![CDATA[Canalisation d’énergie positive (Sur)]]></target>
+            </trans-unit>
+            <trans-unit id="10a83ee286b0b0f4b5caee1b9b0e552f" resname="divine-bond-sp.name">
+                <source>divine-bond-sp.name</source>
+                <target><![CDATA[Pacte divin (Mag)]]></target>
+            </trans-unit>
+            <trans-unit id="aede7ef03985854517a02be4183d1c13" resname="aura-of-resolve-su.name">
+                <source>aura-of-resolve-su.name</source>
+                <target><![CDATA[Aura de fermeté (Sur)]]></target>
+            </trans-unit>
+            <trans-unit id="65da95934d352390766d01fda8209dee" resname="aura-of-justice-su.name">
+                <source>aura-of-justice-su.name</source>
+                <target><![CDATA[Aura de justice (Sur)]]></target>
+            </trans-unit>
+            <trans-unit id="39026cc395623df89dfcd4d731f8e4d3" resname="aura-of-faith-su.name">
+                <source>aura-of-faith-su.name</source>
+                <target><![CDATA[Aura de foi (Sur)]]></target>
+            </trans-unit>
+            <trans-unit id="5ec95270c3a079dad7a31e154cc32e8e" resname="aura-of-righteousness-su.name">
+                <source>aura-of-righteousness-su.name</source>
+                <target><![CDATA[Aura de droiture (Sur)]]></target>
+            </trans-unit>
+            <trans-unit id="6169f49cb92753731cbc7682a2b6de02" resname="holy-champion-su.name">
+                <source>holy-champion-su.name</source>
+                <target><![CDATA[Champion sacré (Sur)]]></target>
+            </trans-unit>
+            <trans-unit id="d95db74dbbcc35bc97f0de6a9f1a7b24" resname="bardic-knowledge-ex.name">
+                <source>bardic-knowledge-ex.name</source>
+                <target><![CDATA[Savoir bardique (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="3aeb81e2f7a117a59c4e3cf7a27f21a2" resname="first-versatile-performance-ex.name">
+                <source>first-versatile-performance-ex.name</source>
+                <target><![CDATA[Première versatilité artistique (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="830e85dace90903bc70b5833d0ef85b4" resname="second-versatile-performance-ex.name">
+                <source>second-versatile-performance-ex.name</source>
+                <target><![CDATA[Deuxième versatilité artistique (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="42bfb4d2b10d1e22bef91ea3ae3abf6f" resname="third-versatile-performance-ex.name">
+                <source>third-versatile-performance-ex.name</source>
+                <target><![CDATA[Troisième ersatilité artistique (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="56ddfbe4e92482e12f5331206e089977" resname="fourth-versatile-performance-ex.name">
+                <source>fourth-versatile-performance-ex.name</source>
+                <target><![CDATA[Quatrième versatilité artistique (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="be048d4633938c7acdac8310f69e9a71" resname="fifth-versatile-performance-ex.name">
+                <source>fifth-versatile-performance-ex.name</source>
+                <target><![CDATA[Cinquième versatilité artistique (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="767ada70b99294b84a851fdb7bba6c76" resname="lore-master-ex.name">
+                <source>lore-master-ex.name</source>
+                <target><![CDATA[Maître du savoir (Ext)]]></target>
+            </trans-unit>
+            <trans-unit id="512853fe952b4b9a5d35f4a053312d82" resname="first-secret.name">
+                <source>first-secret.name</source>
+                <target><![CDATA[First Secret]]></target>
+            </trans-unit>
+            <trans-unit id="3f16f920bd63f10465c12029dfc6b9da" resname="first-secret.longdesc">
+                    <source>first-secret.longdesc</source>
+                    <target><![CDATA[At 1st level and every two levels higher than 1st (3rd, 5th, 7th, and 9th), the loremaster chooses one secret from <b>Table: Loremaster Secrets</b>. His level plus <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-">Intelligence</a> modifier determines which secrets he can choose. He can't choose the same secret twice.]]></target>
+            </trans-unit>
+            <trans-unit id="3d17774afec5fc7f92232f06c0960bae" resname="second-secret.name">
+                <source>second-secret.name</source>
+                <target><![CDATA[Second Secret]]></target>
+            </trans-unit>
+            <trans-unit id="b52a25871cada91fbe6878047728506e" resname="second-secret.longdesc">
+                    <source>second-secret.longdesc</source>
+                    <target><![CDATA[At 1st level and every two levels higher than 1st (3rd, 5th, 7th, and 9th), the loremaster chooses one secret from <b>Table: Loremaster Secrets</b>. His level plus <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-">Intelligence</a> modifier determines which secrets he can choose. He can't choose the same secret twice.]]></target>
+            </trans-unit>
+            <trans-unit id="807e863c5d9b8b5ca89bf9d4b86c3f8e" resname="third-secret.name">
+                <source>third-secret.name</source>
+                <target><![CDATA[Third Secret]]></target>
+            </trans-unit>
+            <trans-unit id="dbcb3721bf5ee3c2c98dbd75cf8dfae1" resname="third-secret.longdesc">
+                    <source>third-secret.longdesc</source>
+                    <target><![CDATA[At 1st level and every two levels higher than 1st (3rd, 5th, 7th, and 9th), the loremaster chooses one secret from <b>Table: Loremaster Secrets</b>. His level plus <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-">Intelligence</a> modifier determines which secrets he can choose. He can't choose the same secret twice.]]></target>
+            </trans-unit>
+            <trans-unit id="e1e71d1df8ab01be0247e87cd3be4b97" resname="fourth-secret.name">
+                <source>fourth-secret.name</source>
+                <target><![CDATA[Fourth Secret]]></target>
+            </trans-unit>
+            <trans-unit id="ea41d831c957e15b0ff30a0ad41c4ca6" resname="fourth-secret.longdesc">
+                    <source>fourth-secret.longdesc</source>
+                    <target><![CDATA[At 1st level and every two levels higher than 1st (3rd, 5th, 7th, and 9th), the loremaster chooses one secret from <b>Table: Loremaster Secrets</b>. His level plus <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-">Intelligence</a> modifier determines which secrets he can choose. He can't choose the same secret twice.]]></target>
+            </trans-unit>
+            <trans-unit id="f2d9c2384d271012f40752115259d1a4" resname="fifth-secret.name">
+                <source>fifth-secret.name</source>
+                <target><![CDATA[Fifth Secret]]></target>
+            </trans-unit>
+            <trans-unit id="84c64c2a0e7c0b24ada29559d6c516ed" resname="fifth-secret.longdesc">
+                    <source>fifth-secret.longdesc</source>
+                    <target><![CDATA[At 1st level and every two levels higher than 1st (3rd, 5th, 7th, and 9th), the loremaster chooses one secret from <b>Table: Loremaster Secrets</b>. His level plus <a href="http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-">Intelligence</a> modifier determines which secrets he can choose. He can't choose the same secret twice.]]></target>
+            </trans-unit>
+            <trans-unit id="9330ddbad3576d5a296b928de0562103" resname="lore.name">
+                <source>lore.name</source>
+                <target><![CDATA[Lore]]></target>
+            </trans-unit>
+            <trans-unit id="c2f50f1776cf23516e16a00e6c4e7279" resname="lore.longdesc">
+                    <source>lore.longdesc</source>
+                    <target><![CDATA[At 2nd level, a loremaster adds half his level to all <a href="http://www.d20pfsrd.com/skills/knowledge">Knowledge</a> skill checks and may make such checks untrained. The bonuses gained from this ability stack with those gained from Bardic <a href="http://www.d20pfsrd.com/skills/knowledge">Knowledge</a>.]]></target>
+            </trans-unit>
+            <trans-unit id="011e3cce9c119fc8e198580eff7ffcdb" resname="bonus-language.name">
+                <source>bonus-language.name</source>
+                <target><![CDATA[Bonus Language]]></target>
+            </trans-unit>
+            <trans-unit id="909ed33612f2259ea81e3c8eb22832c1" resname="bonus-language.longdesc">
+                    <source>bonus-language.longdesc</source>
+                    <target><![CDATA[<p>A loremaster can learn any new language at 4th and 8th level.</p>
+<h4><a name="TOC-Languages"></a>Languages<br>
+</h4>
+<p>
+<b>Abyssal</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon">demons</a> and other <a href="http://www.d20pfsrd.com/alignment-description/additional-rules#TOC-Chaotic-Evil">chaotic evil</a> <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider">outsiders</a>)<br>
+<b>Aklo</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/derro">derros</a>, inhuman or otherworldly monsters, evil <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey">fey</a>)<br>
+<b>Aquan</b> (<a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Aquatic">aquatic creatures</a>, water-based creatures)<br>
+<b>Auran</b> (flying creatures, air-based creatures)<br>
+<b>Celestial</b> (<a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Angel">angels</a> and other good <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider">outsiders</a>)<br>
+<b>Common</b> (<a href="http://www.d20pfsrd.com/races/core-races/human">humans</a> and the core races from <a href="http://www.d20pfsrd.com/races">Races</a>)<br>
+<b>Draconic</b> (<a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Dragon">dragons</a>, <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Reptilian">reptilian</a> <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid">humanoids</a>)<br>
+<b>Druidic</b> (<a href="http://www.d20pfsrd.com/classes/core-classes/druid">druids</a> only)<br>
+<b>Dwarven</b> (<a href="http://www.d20pfsrd.com/races/core-races/dwarf">dwarves</a>)<br>
+<b>Elven</b> (<a href="http://www.d20pfsrd.com/races/core-races/elf">elves</a>, <a href="http://www.d20pfsrd.com/races/core-races/half-elf">half-elves</a>)<br>
+<b>Giant</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/cyclops">cyclopses</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ettin">ettins</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants">giants</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ogre">ogres</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll">trolls</a>)<br>
+<b>Gnome</b> (<a href="http://www.d20pfsrd.com/races/core-races/gnome">gnomes</a>)<br>
+<b>Goblin</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/bugbear">bugbears</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/goblin">goblins</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/hobgoblin">hobgoblins</a>)<br>
+<b>Gnoll</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gnoll">gnolls</a>)<br>
+<b>Halfling</b> (<a href="http://www.d20pfsrd.com/races/core-races/halfling">halflings</a>)<br>
+<b>Ignan</b> (fire-based creatures)<br>
+<b>Infernal</b> (<a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Devil">devils</a> and other <a href="http://www.d20pfsrd.com/alignment-description/additional-rules#TOC-Lawful-Evil">lawful evil</a> <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider">outsiders</a>)<br>
+<b>Orc</b> (<a href="https://sites.google.com/site/pathfinderogc/bestiary/monster-listings/humanoids/orc">orcs</a>, half-<a href="https://sites.google.com/site/pathfinderogc/bestiary/monster-listings/humanoids/orc">orcs</a>)<br>
+<b>Sylvan</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/centaur">centaurs</a>, <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey">fey creatures</a>, <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant">plant creatures</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/unicorn">unicorns</a>)<br>
+<b>Terran</b> (earth-based creatures)<br>
+<b>Undercommon</b> (<a href="https://sites.google.com/site/pathfinderogc/bestiary/monster-listings/humanoids/drow-1">drow</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/duergar">duergar</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/morlock">morlocks</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/svirfneblin">svirfneblin</a>)
+</p>]]></target>
+            </trans-unit>
+            <trans-unit id="fb09d487eb9414f2e7068991fc79ffe0" resname="bonus-language-1.name">
+                <source>bonus-language-1.name</source>
+                <target><![CDATA[Bonus Language]]></target>
+            </trans-unit>
+            <trans-unit id="4400b0f05f8456817ddcb63b5bf1d9f7" resname="bonus-language-1.longdesc">
+                    <source>bonus-language-1.longdesc</source>
+                    <target><![CDATA[<p>A loremaster can learn any new language at 4th and 8th level.</p>
+<h4><a name="TOC-Languages"></a>Languages<br>
+</h4>
+<p>
+<b>Abyssal</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon">demons</a> and other <a href="http://www.d20pfsrd.com/alignment-description/additional-rules#TOC-Chaotic-Evil">chaotic evil</a> <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider">outsiders</a>)<br>
+<b>Aklo</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/derro">derros</a>, inhuman or otherworldly monsters, evil <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey">fey</a>)<br>
+<b>Aquan</b> (<a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Aquatic">aquatic creatures</a>, water-based creatures)<br>
+<b>Auran</b> (flying creatures, air-based creatures)<br>
+<b>Celestial</b> (<a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Angel">angels</a> and other good <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider">outsiders</a>)<br>
+<b>Common</b> (<a href="http://www.d20pfsrd.com/races/core-races/human">humans</a> and the core races from <a href="http://www.d20pfsrd.com/races">Races</a>)<br>
+<b>Draconic</b> (<a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Dragon">dragons</a>, <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Reptilian">reptilian</a> <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid">humanoids</a>)<br>
+<b>Druidic</b> (<a href="http://www.d20pfsrd.com/classes/core-classes/druid">druids</a> only)<br>
+<b>Dwarven</b> (<a href="http://www.d20pfsrd.com/races/core-races/dwarf">dwarves</a>)<br>
+<b>Elven</b> (<a href="http://www.d20pfsrd.com/races/core-races/elf">elves</a>, <a href="http://www.d20pfsrd.com/races/core-races/half-elf">half-elves</a>)<br>
+<b>Giant</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/cyclops">cyclopses</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ettin">ettins</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants">giants</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ogre">ogres</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll">trolls</a>)<br>
+<b>Gnome</b> (<a href="http://www.d20pfsrd.com/races/core-races/gnome">gnomes</a>)<br>
+<b>Goblin</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/bugbear">bugbears</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/goblin">goblins</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/hobgoblin">hobgoblins</a>)<br>
+<b>Gnoll</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gnoll">gnolls</a>)<br>
+<b>Halfling</b> (<a href="http://www.d20pfsrd.com/races/core-races/halfling">halflings</a>)<br>
+<b>Ignan</b> (fire-based creatures)<br>
+<b>Infernal</b> (<a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Devil">devils</a> and other <a href="http://www.d20pfsrd.com/alignment-description/additional-rules#TOC-Lawful-Evil">lawful evil</a> <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider">outsiders</a>)<br>
+<b>Orc</b> (<a href="https://sites.google.com/site/pathfinderogc/bestiary/monster-listings/humanoids/orc">orcs</a>, half-<a href="https://sites.google.com/site/pathfinderogc/bestiary/monster-listings/humanoids/orc">orcs</a>)<br>
+<b>Sylvan</b> (<a href="http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/centaur">centaurs</a>, <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey">fey creatures</a>, <a href="http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant">plant creatures</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/unicorn">unicorns</a>)<br>
+<b>Terran</b> (earth-based creatures)<br>
+<b>Undercommon</b> (<a href="https://sites.google.com/site/pathfinderogc/bestiary/monster-listings/humanoids/drow-1">drow</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/duergar">duergar</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/morlock">morlocks</a>, <a href="http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/svirfneblin">svirfneblin</a>)
+</p>]]></target>
+            </trans-unit>
+            <trans-unit id="245e82cc316b713c3273cf01f130aba2" resname="greater-lore-ex.name">
+                <source>greater-lore-ex.name</source>
+                <target><![CDATA[Greater Lore (Ex)]]></target>
+            </trans-unit>
+            <trans-unit id="519cd2d56e9e0851c80efec5c79c9aa6" resname="greater-lore-ex.longdesc">
+                    <source>greater-lore-ex.longdesc</source>
+                    <target><![CDATA[At 6th level, a loremaster gains the ability to understand magic items. 
+Whenever a loremaster examines a magic item to determine its properties,
+ he gains a +10 <a href="http://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Circumstance-Bonus">circumstance bonus</a> on his <a href="http://www.d20pfsrd.com/skills/spellcraft">Spellcraft</a> skill check.]]></target>
+            </trans-unit>
+            <trans-unit id="55e4a55a27b1863b800d58a14a3d5660" resname="true-lore-ex.name">
+                <source>true-lore-ex.name</source>
+                <target><![CDATA[True Lore (Ex)]]></target>
+            </trans-unit>
+            <trans-unit id="1d3284165ac0a5211414737b89c6a8bb" resname="true-lore-ex.longdesc">
+                    <source>true-lore-ex.longdesc</source>
+                    <target><![CDATA[At 10th level, a loremaster's knowledge becomes vast indeed. Once per 
+day a loremaster can use his knowledge to gain the effect of a <a href="http://www.d20pfsrd.com/magic/all-spells/l/legend-lore" style="font-style:italic">legend lore</a> spell or an <a href="http://www.d20pfsrd.com/magic/all-spells/a/analyze-dweomer" style="font-style:italic">analyze dweomer</a> spell. If used to create a <a href="http://www.d20pfsrd.com/magic/all-spells/l/legend-lore" style="font-style:italic">legend lore</a> effect, this ability has a <a href="http://www.d20pfsrd.com/magic#TOC-Casting-Time">casting time</a> of 1 minute, regardless of how much information is already known about the subject in question.]]></target>
+            </trans-unit>
+            <trans-unit id="90657a29034274ca20371363cbd7eaba" resname="instant-mastery.name">
+                <source>instant-mastery.name</source>
+                <target><![CDATA[Instant mastery]]></target>
+            </trans-unit>
+            <trans-unit id="5dfa10cd7635a4179308a004bd91336e" resname="instant-mastery.longdesc">
+                    <source>instant-mastery.longdesc</source>
+                    <target><![CDATA[4 ranks of a skill in which the character has no ranks]]></target>
+            </trans-unit>
+            <trans-unit id="f3793dba96e141218a0bfa2105f86a7e" resname="secret-health.name">
+                <source>secret-health.name</source>
+                <target><![CDATA[Secret health]]></target>
+            </trans-unit>
+            <trans-unit id="4ea1ade59afc3b231f762647582d2459" resname="secret-health.longdesc">
+                    <source>secret-health.longdesc</source>
+                    <target><![CDATA[<a href="http://www.d20pfsrd.com/feats/general-feats/toughness---final">Toughness</a> bonus feat]]></target>
+            </trans-unit>
+            <trans-unit id="3e9f3dd6791826a6a3298fe2864a7341" resname="secrets-of-inner-strength.name">
+                <source>secrets-of-inner-strength.name</source>
+                <target><![CDATA[Secrets of inner strength]]></target>
+            </trans-unit>
+            <trans-unit id="a84d80aff9ab7446bcaffcc0effd4e22" resname="secrets-of-inner-strength.longdesc">
+                    <source>secrets-of-inner-strength.longdesc</source>
+                    <target><![CDATA[+2 bonus on <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Will">Will</a> saves]]></target>
+            </trans-unit>
+            <trans-unit id="e8e065f558badda2114e2bc5498b3e70" resname="the-lore-of-true-stamina.name">
+                <source>the-lore-of-true-stamina.name</source>
+                <target><![CDATA[The lore of true stamina]]></target>
+            </trans-unit>
+            <trans-unit id="6296d4ef75d1f10faf219662af10b03b" resname="the-lore-of-true-stamina.longdesc">
+                    <source>the-lore-of-true-stamina.longdesc</source>
+                    <target><![CDATA[+2 bonus on <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude">Fortitude</a> saves]]></target>
+            </trans-unit>
+            <trans-unit id="70b530d348c97adb24a54622cbd5d8ba" resname="secret-knowledge-of-avoidance.name">
+                <source>secret-knowledge-of-avoidance.name</source>
+                <target><![CDATA[Secret knowledge of avoidance]]></target>
+            </trans-unit>
+            <trans-unit id="b59cc2ce9d39c0e829603fd0f79d669b" resname="secret-knowledge-of-avoidance.longdesc">
+                    <source>secret-knowledge-of-avoidance.longdesc</source>
+                    <target><![CDATA[+2 bonus on <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex">Reflex</a> saves]]></target>
+            </trans-unit>
+            <trans-unit id="44809bf52fd8e3e1c41f7c55e911e633" resname="weapon-trick.name">
+                <source>weapon-trick.name</source>
+                <target><![CDATA[Weapon trick]]></target>
+            </trans-unit>
+            <trans-unit id="13a8bc539cd58ac8b3826adff2caf21f" resname="weapon-trick.longdesc">
+                    <source>weapon-trick.longdesc</source>
+                    <target><![CDATA[+1 bonus on <a href="http://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll">attack rolls</a>]]></target>
+            </trans-unit>
+            <trans-unit id="7d52bb398eb435b9843e239ac6ebd4b2" resname="dodge-trick.name">
+                <source>dodge-trick.name</source>
+                <target><![CDATA[Dodge Trick]]></target>
+            </trans-unit>
+            <trans-unit id="8a273cd9d2c4c115bbb901f40dab4a49" resname="dodge-trick.longdesc">
+                    <source>dodge-trick.longdesc</source>
+                    <target><![CDATA[+1 <a href="http://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Dodge-Bonus">dodge bonus</a> to AC]]></target>
+            </trans-unit>
+            <trans-unit id="a0c69a145753c32e00311f35ded5a574" resname="applicable-knowledge.name">
+                <source>applicable-knowledge.name</source>
+                <target><![CDATA[Applicable knowledge]]></target>
+            </trans-unit>
+            <trans-unit id="edcd86e617dd32b02ed0a6d1f24cad55" resname="applicable-knowledge.longdesc">
+                    <source>applicable-knowledge.longdesc</source>
+                    <target><![CDATA[Any one feat]]></target>
+            </trans-unit>
+            <trans-unit id="ba9fadc0bed2d0eea05cd244ce8491a8" resname="newfound-arcana.name">
+                <source>newfound-arcana.name</source>
+                <target><![CDATA[Newfound arcana]]></target>
+            </trans-unit>
+            <trans-unit id="6d400351260043102998aa41a54e205b" resname="newfound-arcana.longdesc">
+                    <source>newfound-arcana.longdesc</source>
+                    <target><![CDATA[1 bonus 1st-level spell (As if gained through having a high ability score).<br>]]></target>
+            </trans-unit>
+            <trans-unit id="2697817b4005cb6e16ae428638dd2ce7" resname="more-newfound-arcana.name">
+                <source>more-newfound-arcana.name</source>
+                <target><![CDATA[More newfound arcana]]></target>
+            </trans-unit>
+            <trans-unit id="a22e6e7eef7175f7b06df9df0cd9bca1" resname="more-newfound-arcana.longdesc">
+                    <source>more-newfound-arcana.longdesc</source>
+                    <target><![CDATA[1 bonus 2st-level spell (As if gained through having a high ability score).]]></target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

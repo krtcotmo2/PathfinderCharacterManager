@@ -1,14 +1,13 @@
 {% extends '::base.html.twig' %}
 
 {% block content -%}
-    <h1>{{ entity.name }}</h1>
+    <h1>{{ (entity ~ '.name')|trans({}, 'conditions') }}</h1>
 
-    {% if entity.shortDescription %}
-        <p><em>{{ entity.shortDescription|raw }}</em></p>
+    {% if (entity ~ '.shortdesc')|trans({}, 'conditions') != entity ~ '.shortdesc' %}
+        <p><em>{{ (entity ~ '.shortdesc')|trans({}, 'conditions')|raw }}</em></p>
     {% endif %}
-
-    {% if entity.longDescription %}
-        <p>{{ entity.longDescription|raw }}</p>
+    {% if (entity ~ '.longdesc')|trans({}, 'conditions') != entity ~ '.longdesc' %}
+        <p>{{ (entity ~ '.longdesc')|trans({}, 'conditions')|raw }}</p>
     {% endif %}
 
     <ul class="record_actions">

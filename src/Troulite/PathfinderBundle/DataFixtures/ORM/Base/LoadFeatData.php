@@ -21,7 +21,6 @@ namespace Troulite\PathfinderBundle\DataFixtures\ORM\Base;
 use Doctrine\Common\DataFixtures\AbstractFixture;
 use Doctrine\Common\DataFixtures\OrderedFixtureInterface;
 use Doctrine\Common\Persistence\ObjectManager;
-use Gedmo\Translatable\Entity\Repository\TranslationRepository;
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\Finder\SplFileInfo;
 use Troulite\PathfinderBundle\Entity\Feat;
@@ -38,9 +37,6 @@ class LoadFeatData extends AbstractFixture implements OrderedFixtureInterface
      */
     public function load(ObjectManager $manager)
     {
-
-        /** @var $translationsRepository TranslationRepository */
-        $translationsRepository = $manager->getRepository('Gedmo\\Translatable\\Entity\\Translation');
 
         $finder = new Finder();
         $finder->files()->in('src/Troulite/PathfinderBundle/Resources/data/')->name('dons.csv');
@@ -73,15 +69,6 @@ class LoadFeatData extends AbstractFixture implements OrderedFixtureInterface
                         $feat->setExternalConditions(json_decode($data['external_conditions']));
                     }
                     $manager->persist($feat);
-                    if (array_key_exists('name_fr', $data) && $data['name_fr'] && $data['name_fr'] != '#N/D') {
-                        $translationsRepository->translate($feat, 'name', 'fr', $data['name_fr']);
-                    }
-                    if (array_key_exists('description_fr', $data) && $data['description_fr'] && $data['description_fr'] != '#N/D') {
-                        $translationsRepository->translate($feat, 'shortDescription', 'fr', $data['description_fr']);
-                    }
-                    if (array_key_exists('benefit_fr', $data) && $data['benefit_fr'] && $data['benefit_fr'] != '#N/D') {
-                        $translationsRepository->translate($feat, 'longDescription', 'fr', $data['benefit_fr']);
-                    }
 
                     $this->addReference('feat - ' . $feat->getName(), $feat);
                 }

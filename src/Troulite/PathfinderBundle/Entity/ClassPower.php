@@ -26,7 +26,6 @@ namespace Troulite\PathfinderBundle\Entity;
 
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo;
 use Troulite\PathfinderBundle\Entity\Traits\Power;
 
 /**
@@ -233,13 +232,5 @@ class ClassPower
         $parent->children->remove($this);
 
         return $this;
-    }
-
-    /**
-     * @return string
-     */
-    public function __toString()
-    {
-        return $this->getName();
     }
 } 

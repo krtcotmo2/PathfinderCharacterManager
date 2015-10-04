@@ -51,12 +51,4 @@ class Feat
     {
         return $this->id;
     }
-
-    /**
-     * @return string
-     */
-    public function __toString()
-    {
-        return $this->getName();
-    }
 }

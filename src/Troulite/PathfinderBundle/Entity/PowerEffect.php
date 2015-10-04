@@ -24,7 +24,6 @@
 namespace Troulite\PathfinderBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo;
 use Symfony\Component\Validator\Constraints as Assert;
 use Troulite\PathfinderBundle\Entity\Traits\Power;
 
@@ -108,7 +107,7 @@ class PowerEffect
      */
     public function __toString()
     {
-        return $this->getPower()->getName();
+        return $this->getPower()->__toString();
     }
 
     /**

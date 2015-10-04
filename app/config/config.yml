@@ -117,11 +117,8 @@ fos_user:
         sender_name:    Pathfinder Character Manager Admin
 
 stof_doctrine_extensions:
-    default_locale: %locale%
-    translation_fallback: true
     orm:
         default:
-            translatable: true
             tree:         true
             sluggable:    true
 

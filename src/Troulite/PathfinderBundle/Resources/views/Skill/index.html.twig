@@ -6,24 +6,24 @@
         <div class="container">
             <table id="abilities" class="table table-striped table-hover table-responsive">
                 <thead>
-                <th>Skill</th>
+                <th>{{ 'skill'|trans }}</th>
                 {% for class in classes %}
-                    <th>{{ class }}</th>
+                    <th>{{ class|pftrans }}</th>
                 {% endfor %}
-                <th>Untrained</th>
-                <th>Armor Check Penalty</th>
-                <th>Key Ability</th>
+                <th>{{ 'untrained'|trans }}</th>
+                <th>{{ 'armor_check_penalty'|trans }}</th>
+                <th>{{ 'key_ability'|trans }}</th>
                 </thead>
                 <tbody>
                 {% for skill in skills %}
                     <tr>
-                        <td>{{ skill }}</td>
+                        <td>{{ skill|pftrans }}</td>
                         {% for class in classes %}
                             <td>{% if class.classSkills.contains(skill) %}C{% endif %}</td>
                         {% endfor %}
-                        <td>{% if skill.untrained %}Yes{% else %}No{% endif %}</td>
-                        <td>{% if skill.armorCheckPenalty %}Yes{% else %}No{% endif %}</td>
-                        <td>{{ skill.keyAbility|capitalize }}</td>
+                        <td>{% if skill.untrained %}{{ 'yes'|trans }}{% else %}{{ 'no'|trans }}{% endif %}</td>
+                        <td>{% if skill.armorCheckPenalty %}{{ 'yes'|trans }}{% else %}{{ 'no'|trans }}{% endif %}</td>
+                        <td>{{ skill.keyAbility|trans }}</td>
                     </tr>
                 {% endfor %}
                 </tbody>

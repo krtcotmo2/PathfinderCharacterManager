@@ -26,7 +26,6 @@ namespace Troulite\PathfinderBundle\Entity;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo;
 use Symfony\Component\Validator\Constraints as Assert;
 use Troulite\PathfinderBundle\Entity\Traits\Power;
 
@@ -52,7 +51,6 @@ class Spell
      * @var string
      *
      * @ORM\Column(type="string", length=255)
-     * @Gedmo\Translatable()
      */
     private $castingTime;
 
@@ -60,7 +58,6 @@ class Spell
      * @var string
      *
      * @ORM\Column(type="string", length=255)
-     * @Gedmo\Translatable()
      */
     private $components;
 
@@ -68,7 +65,6 @@ class Spell
      * @var string
      *
      * @ORM\Column(type="string", length=255)
-     * @Gedmo\Translatable()
      */
     private $range;
 
@@ -76,7 +72,6 @@ class Spell
      * @var string
      *
      * @ORM\Column(type="string", length=255)
-     * @Gedmo\Translatable()
      */
     private $duration;
 
@@ -84,7 +79,6 @@ class Spell
      * @var string
      *
      * @ORM\Column(type="string", length=255)
-     * @Gedmo\Translatable()
      */
     private $savingThrow;
 
@@ -99,7 +93,6 @@ class Spell
      * @var string
      *
      * @ORM\Column(type="string", length=255)
-     * @Gedmo\Translatable()
      */
     private $targets;
 
@@ -259,14 +252,6 @@ class Spell
     public function getTargets()
     {
         return $this->targets;
-    }
-
-    /**
-     * @return string
-     */
-    public function __toString()
-    {
-        return $this->getName();
     }
 
     /**

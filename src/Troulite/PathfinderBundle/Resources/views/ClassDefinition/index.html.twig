@@ -2,12 +2,12 @@
 
 {% block content -%}
     <div class="container">
-        <h1>Classes</h1>
+        <h1>{{ 'classes'|trans }}</h1>
 
         <ul class="list-group">
             {% for entity in entities %}
                 <li class="list-group-item">
-                    <a href="{{ path('classes_show', { 'id': entity.id }) }}">{{ entity }}</a>
+                    <a href="{{ path('classes_show', { 'id': entity.id }) }}">{{ entity|pftrans }}</a>
                 </li>
             {% endfor %}
         </ul>

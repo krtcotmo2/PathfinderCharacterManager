@@ -14,6 +14,24 @@
     </parameters>
 
     <services>
+        <service id="pathfinder.translation_extension"
+                 class="Troulite\PathfinderBundle\Twig\TranslationExtension"
+                 public="false">
+            <argument type="service" id="translator"/>
+            <tag name="twig.extension"/>
+        </service>
+<!--
+        <service id="pathfinder.slug"
+                 class="Troulite\PathfinderBundle\Command\PopulateSlugsCommand">
+            <argument type="service" id="doctrine.orm.entity_manager"/>
+            <tag name="console.command"/>
+        </service>
+        <service id="pathfinder.translations.create"
+                 class="Troulite\PathfinderBundle\Command\CreateTranslationsCommand">
+            <argument type="service" id="doctrine.orm.entity_manager"/>
+            <tag name="console.command"/>
+        </service>
+-->
         <service id="troulite_pathfinder.character_bonuses" class="%troulite_pathfinder.characterbonuses.class%">
             <argument type="service" id="doctrine.orm.entity_manager"/>
             <argument type="service" id="service_container"/>

@@ -34,6 +34,8 @@ use Troulite\PathfinderBundle\Entity\Character;
 /**
  * Class UncastSpellsType
  *
+ * @todo this whole class is extremely dirty
+ *
  * @package Troulite\PathfinderBundle\Form
  */
 class UncastSpellsType extends AbstractType
@@ -60,9 +62,9 @@ class UncastSpellsType extends AbstractType
                                     new UncastSpellType(),
                                     array(
                                         'mapped'      => false,
-                                        'label'       => /** @Ignore */ $spellEffect->getSpell() . ' on ' . $spellEffect->getCharacter(
-                                            ),
-                                        'spellEffect' => $spellEffect
+                                        // @todo Wow that's ugly!
+                                        'label'       => [$spellEffect->getSpell(), $spellEffect->getCharacter()],
+                                        'spellEffect' => $spellEffect,
                                     )
                                 );
                             }

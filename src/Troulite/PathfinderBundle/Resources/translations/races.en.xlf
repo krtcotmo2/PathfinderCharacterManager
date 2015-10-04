@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+        <body>
+            <trans-unit id="fca9c8e799898ab3bfd0ff90fabfdccf" resname="elf.name">
+                <source>elf.name</source>
+                <target><![CDATA[Elf]]></target>
+            </trans-unit>
+            <trans-unit id="052d42679969841cf5f9a0b26ae7d509" resname="halfling.name">
+                <source>halfling.name</source>
+                <target><![CDATA[Halfling]]></target>
+            </trans-unit>
+            <trans-unit id="d7026c461a3963ff4364c060558f0c44" resname="human-strength.name">
+                <source>human-strength.name</source>
+                <target><![CDATA[Human (Strength)]]></target>
+            </trans-unit>
+            <trans-unit id="7598638c592ac237c68a4705252ec4f3" resname="human-dexterity.name">
+                <source>human-dexterity.name</source>
+                <target><![CDATA[Human (dexterity)]]></target>
+            </trans-unit>
+            <trans-unit id="e391a9068bcc28b003dbb9ac5ca11577" resname="human-constitution.name">
+                <source>human-constitution.name</source>
+                <target><![CDATA[Human (Constitution)]]></target>
+            </trans-unit>
+            <trans-unit id="6e9f49c42b82e0f387dcf67a7cf33ac5" resname="human-intelligence.name">
+                <source>human-intelligence.name</source>
+                <target><![CDATA[Human (Intelligence)]]></target>
+            </trans-unit>
+            <trans-unit id="18befd75155001ce8395a43958a4a226" resname="human-wisdom.name">
+                <source>human-wisdom.name</source>
+                <target><![CDATA[Human (Wisdom)]]></target>
+            </trans-unit>
+            <trans-unit id="dbe458df7dc839c6e7b4c10fc69d556b" resname="human-charisma.name">
+                <source>human-charisma.name</source>
+                <target><![CDATA[Human (Charisma)]]></target>
+            </trans-unit>
+            <trans-unit id="092e0fa085532e1e206e1fcb345ecd6d" resname="dwarf.name">
+                <source>dwarf.name</source>
+                <target><![CDATA[Dwarf]]></target>
+            </trans-unit>
+            <trans-unit id="6e233cc276108baea594c3cea9ed0f31" resname="gnome.name">
+                <source>gnome.name</source>
+                <target><![CDATA[Gnome]]></target>
+            </trans-unit>
+            <trans-unit id="50dcbad84dfeb3b847d8e6d446013802" resname="half-elf-strength.name">
+                <source>half-elf-strength.name</source>
+                <target><![CDATA[Half-Elf (Strength)]]></target>
+            </trans-unit>
+            <trans-unit id="53b0e842110133f21666abf0be0dcb6f" resname="half-elf-dexterity.name">
+                <source>half-elf-dexterity.name</source>
+                <target><![CDATA[Half-Elf (Dexterity)]]></target>
+            </trans-unit>
+            <trans-unit id="9c4be3992b53ae3bbbe1dcbd58e7d168" resname="half-elf-constitution.name">
+                <source>half-elf-constitution.name</source>
+                <target><![CDATA[Half-Elf (Constitution)]]></target>
+            </trans-unit>
+            <trans-unit id="bbd0fd1493ce12ce51ef440ef0d9a737" resname="half-helf-intelligence.name">
+                <source>half-helf-intelligence.name</source>
+                <target><![CDATA[Half-Elf (Intelligence)]]></target>
+            </trans-unit>
+            <trans-unit id="1a917b77fcdf7a3c9aadf2ea1b09395b" resname="half-elf-wisdom.name">
+                <source>half-elf-wisdom.name</source>
+                <target><![CDATA[Half-Elf (Wisdom)]]></target>
+            </trans-unit>
+            <trans-unit id="e95021a5bc9b3ff6855f11d3a956f2d6" resname="half-elf-charisma.name">
+                <source>half-elf-charisma.name</source>
+                <target><![CDATA[Half-Elf (Charisma)]]></target>
+            </trans-unit>
+            <trans-unit id="65d8d123df26b94a889cba6d491a8599" resname="half-orc-strength.name">
+                <source>half-orc-strength.name</source>
+                <target><![CDATA[Half-Orc (Strength)]]></target>
+            </trans-unit>
+            <trans-unit id="b980aaeb90f02546eb8b0f059fc5d450" resname="half-orc-dexterity.name">
+                <source>half-orc-dexterity.name</source>
+                <target><![CDATA[Half-Orc (Dexterity)]]></target>
+            </trans-unit>
+            <trans-unit id="7be8296047c7871298fe12acb600e09d" resname="half-orc-constitution.name">
+                <source>half-orc-constitution.name</source>
+                <target><![CDATA[Half-Orc (Constitution)]]></target>
+            </trans-unit>
+            <trans-unit id="d131ecbf960518cdd6463929590fd140" resname="half-orc-intelligence.name">
+                <source>half-orc-intelligence.name</source>
+                <target><![CDATA[Half-Orc (Intelligence)]]></target>
+            </trans-unit>
+            <trans-unit id="2a4660036fbc86d2d85b8c6ec7c8a9db" resname="half-orc-wisdom.name">
+                <source>half-orc-wisdom.name</source>
+                <target><![CDATA[Half-Orc (Wisdom)]]></target>
+            </trans-unit>
+            <trans-unit id="4fcecf5546c08b14022de5b0bf4f04c0" resname="half-orc-charisma.name">
+                <source>half-orc-charisma.name</source>
+                <target><![CDATA[Half-Orc (Charisma)]]></target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

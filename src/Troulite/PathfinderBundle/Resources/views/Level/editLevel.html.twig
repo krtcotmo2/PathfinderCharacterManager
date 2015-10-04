@@ -35,7 +35,7 @@
         {{ form_errors(form) }}
         {% for child in form %}
             <tr>
-                <td>{{ child.vars.value.skill }}</td>
+                <td>{{ child.vars.value.skill|pftrans('name') }}</td>
                 <td>{{ child.parent.parent.vars.value.character.skillRank(child.vars.value.skill) - child.vars.value.value }}</td>
                 <td>{{ form_row(child, {'attr':{'class':'collection-item' }}) }}</td>
             </tr>

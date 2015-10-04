@@ -19,7 +19,6 @@
 namespace Troulite\PathfinderBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -44,7 +43,6 @@ class Race
      * @var string
      *
      * @ORM\Column(name="name", type="string", length=255, nullable=false)
-     * @Gedmo\Translatable()
      */
     private $name;
 

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+        <body>
+            <trans-unit id="d05842dc7cc1724800068efc4cbecd5b" resname="ranger.name">
+                <source>ranger.name</source>
+                <target><![CDATA[Ranger]]></target>
+            </trans-unit>
+            <trans-unit id="676b170857a43a55761f05f5978a5c18" resname="barbarian.name">
+                <source>barbarian.name</source>
+                <target><![CDATA[Barbarian]]></target>
+            </trans-unit>
+            <trans-unit id="221e150b4c5b07ed8e4fe37a8c0ea891" resname="paladin.name">
+                <source>paladin.name</source>
+                <target><![CDATA[Paladin]]></target>
+            </trans-unit>
+            <trans-unit id="5cb599680f94ab29973a73975a565d48" resname="bard.name">
+                <source>bard.name</source>
+                <target><![CDATA[Bard]]></target>
+            </trans-unit>
+            <trans-unit id="9a6807f4ac1a42cc9c4c6d0bdb2a06d9" resname="wizard.name">
+                <source>wizard.name</source>
+                <target><![CDATA[Wizard]]></target>
+            </trans-unit>
+            <trans-unit id="0fefbe9962bf587e701872d57a117867" resname="wizard.longdesc">
+                    <source>wizard.longdesc</source>
+                    <target><![CDATA[<p>Beyond the veil of the mundane hide the secrets of absolute power.  The works of beings beyond mortals, the legends of realms where gods and  spirits tread, the lore of creations both wondrous and terrible—such  mysteries call to those with the ambition and the intellect to rise  above the common folk to grasp true might. Such is the path of the  wizard. These shrewd magic-users seek, collect, and covet esoteric  knowledge, drawing on cultic arts to work wonders beyond the abilities  of mere mortals. While some might choose a particular field of magical  study and become masters of such powers, others embrace versatility,  reveling in the unbounded wonders of all magic. In either case, wizards  prove a cunning and potent lot, capable of smiting their foes,  empowering their allies, and shaping the world to their every desire.</p><p><b>Role</b>: While universalist wizards might study to prepare  themselves for any manner of danger, specialist wizards research schools  of magic that make them exceptionally skilled within a specific focus.  Yet no matter their specialty, all wizards are masters of the impossible  and can aid their allies in overcoming any danger.</p>]]></target>
+            </trans-unit>
+            <trans-unit id="9b1268d117542d0df1b0e49fc9c2a9ed" resname="fighter.name">
+                <source>fighter.name</source>
+                <target><![CDATA[Fighter]]></target>
+            </trans-unit>
+            <trans-unit id="9c795ee3d652b9d34013a2e5c532c31e" resname="fighter.longdesc">
+                    <source>fighter.longdesc</source>
+                    <target><![CDATA[<p>Some take up arms for glory, wealth, or revenge. Others do battle to  prove themselves, to protect others, or because they know nothing else.  Still others learn the ways of weaponcraft to hone their bodies in  battle and prove their mettle in the forge of war. Lords of the  battlefield, fighters are a disparate lot, training with many weapons or  just one, perfecting the uses of armor, learning the fighting  techniques of exotic masters, and studying the art of combat, all to  shape themselves into living weapons. Far more than mere thugs, these  skilled warriors reveal the true deadliness of their weapons, turning  hunks of metal into arms capable of taming kingdoms, slaughtering  monsters, and rousing the hearts of armies. Soldiers, knights, hunters,  and artists of war, fighters are unparalleled champions, and woe to  those who dare stand against them.</p><p><b>Role</b>: Fighters excel at combat—defeating their enemies,  controlling the flow of battle, and surviving such sorties themselves.  While their specific weapons and methods grant them a wide variety of  tactics, few can match fighters for sheer battle prowess.</p>]]></target>
+            </trans-unit>
+            <trans-unit id="e193c6523c356694d6052fc56dc30bd5" resname="sorcerer.name">
+                <source>sorcerer.name</source>
+                <target><![CDATA[Sorcerer]]></target>
+            </trans-unit>
+            <trans-unit id="e180cffed0cd461bb46e621afb4b6525" resname="sorcerer.longdesc">
+                    <source>sorcerer.longdesc</source>
+                    <target><![CDATA[<p>Scions of innately magical bloodlines, the chosen of deities, the 
+spawn of monsters, pawns of fate and destiny, or simply flukes of fickle
+ magic, sorcerers look within themselves for arcane prowess and draw 
+forth might few mortals can imagine. Emboldened by lives ever 
+threatening to be consumed by their innate powers, these magic-touched 
+souls endlessly indulge in and refine their mysterious abilities, 
+gradually learning how to harness their birthright and coax forth ever 
+greater arcane feats. Just as varied as these innately powerful 
+spellcasters' abilities and inspirations are the ways in which they 
+choose to utilize their gifts. While some seek to control their 
+abilities through meditation and discipline, becoming masters of their 
+fantastic birthright, others give in to their magic, letting it rule 
+their lives with often explosive results. Regardless, sorcerers live and
+ breathe that which other spellcasters devote their lives to mastering, 
+and for them magic is more than a boon or a field of study; it is life 
+itself.</p>
+<p><b>Role</b>: Sorcerers excel at casting a selection of favored spells
+ frequently, making them powerful battle mages. As they become familiar 
+with a specific and ever-widening set of spells, sorcerers often 
+discover new and versatile ways of making use of magics other 
+spellcasters might overlook. Their bloodlines also grant them additional
+ abilities, assuring that no two sorcerers are ever quite alike.</p>]]></target>
+            </trans-unit>
+            <trans-unit id="b0d67124efb840c69ac3b43ca57ac117" resname="cleric.name">
+                <source>cleric.name</source>
+                <target><![CDATA[Cleric]]></target>
+            </trans-unit>
+            <trans-unit id="c5a8c6e33125e8567f952f3694d1e36e" resname="cleric.longdesc">
+                    <source>cleric.longdesc</source>
+                    <target><![CDATA[<p>In faith and the miracles of the divine, many find a greater purpose.
+ Called to serve powers beyond most mortal understanding, all priests 
+preach wonders and provide for the spiritual needs of their people. 
+Clerics are more than mere priests, though; these emissaries of the 
+divine work the will of their deities through strength of arms and the 
+magic of their gods. Devoted to the tenets of the religions and 
+philosophies that inspire them, these ecclesiastics quest to spread the 
+knowledge and influence of their faith. Yet while they might share 
+similar abilities, clerics prove as different from one another as the 
+divinities they serve, with some offering healing and redemption, others
+ judging law and truth, and still others spreading conflict and 
+corruption. The ways of the cleric are varied, yet all who tread these 
+paths walk with the mightiest of allies and bear the arms of the gods 
+themselves.</p>
+<p><b>Role</b>: More than capable of upholding the honor of their 
+deities in battle, clerics often prove stalwart and capable combatants. 
+Their true strength lies in their capability to draw upon the power of 
+their deities, whether to increase their own and their allies' prowess 
+in battle, to vex their foes with divine magic, or to lend healing to 
+companions in need. As their powers are influenced by their faith, all 
+clerics must focus their worship upon a divine source. While the vast 
+majority of clerics revere a specific deity, a small number dedicate 
+themselves to a divine concept worthy of devotion—such as battle, death,
+ justice, or knowledge—free of a deific abstraction. (Work with your GM 
+if you prefer this path to selecting a specific deity.)</p>
+<p><b>Alignment</b>: A cleric's alignment must be within one step of her deity's, along either the law/chaos axis or the good/evil axis.</p>]]></target>
+            </trans-unit>
+            <trans-unit id="55b6449f76ddeadfb4a0552a8ecfb4de" resname="loremaster.name">
+                <source>loremaster.name</source>
+                <target><![CDATA[Loremaster]]></target>
+            </trans-unit>
+            <trans-unit id="bd3e372804d9681212d6949960d14019" resname="loremaster.longdesc">
+                    <source>loremaster.longdesc</source>
+                    <target><![CDATA[<p>The loremaster is a gatherer and keeper of secrets. He is often 
+obsessed by the written word, with cryptic and arcane lore serving as 
+his devoted mistress. Holding to the adage that knowledge is power, the 
+loremaster often forsakes material wealth and personal glory for rare or
+ unusual information, an endless quest that brings him ever closer to 
+his unattainable goal: perfection through edification. Often rejecting 
+what he views as the pointless affectations and transitory pleasures of 
+his short-sighted neighbors, the loremaster believes that the only 
+worthwhile goal in life is the acquisition of intellectual might. After 
+all, wealth is spent, passions fade, and the power of the body is 
+limited by age, while the mind's capacity to grow greater with time is 
+infinite.</p>
+<p>The loremaster class holds little appeal for non-spellcasters—indeed,
+ before one can devote a life to the studies and traditions of the 
+loremaster, a character must first master several spells of the school 
+of divination. Most loremasters begin their paths as <a href="http://www.d20pfsrd.com/classes/core-classes/cleric">clerics</a> or <a href="http://www.d20pfsrd.com/classes/core-classes/wizard">wizards</a>, but any character capable of casting enough divination spells can, eventually, become a loremaster.</p>
+<p><b>Role</b>: Loremasters' lives are spent in study, research, and 
+fieldwork. While the first two lend themselves to the loremaster's 
+reputation as a bookish recluse, the latter oftentimes forces a 
+loremaster to seek out the aid of adventurers who, through a mutually 
+beneficial arrangement, might provide a degree of protection to the 
+scholar while he seeks whatever knowledge he is after. For his part, the
+ loremaster provides a wealth of information and arcane firepower to a 
+party. Some loremasters actively deride those of their kind who fear to 
+leave the safety of the temple or library, pointing out that only old 
+lore can be discovered in books—new lore must be sought out in the 
+world. These more active loremasters might join up with an adventuring 
+party for the benefit of the journey, content with whatever knowledge 
+might be picked up along the way.</p>]]></target>
+            </trans-unit>
+            <trans-unit id="cadd5c3bd3c3d63a483ea0973cf26eb8" resname="air-elementalist.name">
+                <source>air-elementalist.name</source>
+                <target><![CDATA[Air Elementalist]]></target>
+            </trans-unit>
+            <trans-unit id="90651c80fb99fad5aebd0f519521c3e6" resname="air-elementalist.longdesc">
+                    <source>air-elementalist.longdesc</source>
+                    <target><![CDATA[The Air elementalist uses the forces of the wind, sky, clouds, and lightning to confuse and destroy his foes, all while flying through the Air with ease.]]></target>
+            </trans-unit>
+            <trans-unit id="3fc56a9419bcc2f0607c393646561765" resname="earth-elementalist.name">
+                <source>earth-elementalist.name</source>
+                <target><![CDATA[Earth Elementalist]]></target>
+            </trans-unit>
+            <trans-unit id="4d86858f36ec9829866cab84dc3cde12" resname="earth-elementalist.longdesc">
+                    <source>earth-elementalist.longdesc</source>
+                    <target><![CDATA[The earth elementalist draws power from the stone around him, shaping it, shattering it, and bending it to his will. He can use it to defend himself or cause it to rise up and crush his foes.]]></target>
+            </trans-unit>
+            <trans-unit id="38704bc02ba7bde6e70d43cb8bfb201b" resname="healing.name">
+                <source>healing.name</source>
+                <target><![CDATA[Healing]]></target>
+            </trans-unit>
+            <trans-unit id="d652781c98d7e0e84a7ba9643ce864fe" resname="healing.longdesc">
+                    <source>healing.longdesc</source>
+                    <target><![CDATA[Your touch staves off pain and death, and your healing magic is particularly vital and potent.]]></target>
+            </trans-unit>
+            <trans-unit id="1c169df4d2f13201a7d317559a6001f8" resname="glory.name">
+                <source>glory.name</source>
+                <target><![CDATA[Glory]]></target>
+            </trans-unit>
+            <trans-unit id="355246e6d1df299da8c205c0e0afdbb5" resname="glory.longdesc">
+                    <source>glory.longdesc</source>
+                    <target><![CDATA[You are infused with the glory of the divine, and are a true foe of the undead. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2.]]></target>
+            </trans-unit>
+            <trans-unit id="f41b792ce7bb7a92f5d0f02195baa69e" resname="draconic.name">
+                <source>draconic.name</source>
+                <target><![CDATA[Draconic]]></target>
+            </trans-unit>
+            <trans-unit id="2be247e0be1ea0346518c704e9072962" resname="draconic.longdesc">
+                    <source>draconic.longdesc</source>
+                    <target><![CDATA[<i>At some point in your family's history, a dragon interbred with your 
+bloodline, and now its ancient power flows through your veins.</i>]]></target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

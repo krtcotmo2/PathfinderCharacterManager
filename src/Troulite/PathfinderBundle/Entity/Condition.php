@@ -18,9 +18,7 @@
 namespace Troulite\PathfinderBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo;
 use Symfony\Component\Validator\Constraints as Assert;
-use Troulite\PathfinderBundle\Entity\Traits\Describable;
 
 
 /**
@@ -32,7 +30,6 @@ use Troulite\PathfinderBundle\Entity\Traits\Describable;
  * @package Troulite\PathfinderBundle\Entity
  */
 class Condition {
-    use Describable;
 
     /**
      * @var integer
@@ -48,7 +45,6 @@ class Condition {
      *
      * @ORM\Column(name="name", type="string", nullable=false)
      * @Assert\NotBlank()
-     * @Gedmo\Translatable()
      */
     private $name;
 

@@ -1,17 +1,17 @@
-{% macro description(title, object) %}
+{% macro description(title, object, translation_domain) %}
     {% if
-    object.longDescription or
-    object.shortDescription or
+    (object|pftrans('shortdesc') != object ~ '.shortdesc') or
+    (object|pftrans('shortdesc') != object ~ '.longdesc') or
     (object.prerequisities is defined and object.prerequisities|length > 0) or
     (object.conditions is defined and object.conditions|length > 0) or
     (object.externalConditions is defined and object.externalConditions|length > 0) %}
         <a class="mypopover" data-toggle="popover"
-           title="{{ title }}"
+           title="{{ object|pftrans }}"
            data-content="
-            {% if object.shortDescription %}
-            <p><em>{{ object.shortDescription }}</em></p>
+            {% if object|pftrans('shortdesc') != object ~ '.shortdesc' %}
+            <p><em>{{ object|pftrans('shortdesc') }}</em></p>
             {% endif %}
-            {{ object.longDescription }}
+            {{ object|pftrans('longdesc') }}
             {% if object.prerequisities is defined and object.prerequisities|length > 0 %}
             {{ 'prerequisities'|trans }}:
             <ul>
@@ -38,7 +38,7 @@
     {% endif %}
 {% endmacro %}
 
-{% macro bonuses(bonuses) %}
+{% macro bonuses(bonuses, translation_domain) %}
     {% if bonuses.bonuses|length != 0 %}
         <a class="mypopover" data-toggle="popover"
            title="Bonuses"
@@ -49,7 +49,7 @@
                 <ul>
                     {% for bonus in bonuses.applicableBonuses %}
                     <li>
-                        {{ bonus.source }}: {{ bonus.value }}
+                        {{ bonus.source|pftrans }}: {{ bonus.value }}
                         {% if bonus.type %}({{ bonus.type }}){% endif %}
                     </li>
                     {% endfor %}
@@ -61,7 +61,7 @@
                 <ul>
                     {% for bonus in nab %}
                     <li>
-                        {{ bonus.source }}: {{ bonus.value }}
+                        {{ bonus.source|pftrans }}: {{ bonus.value }}
                         {% if bonus.type %}({{ bonus.type }}){% endif %}
                     </li>
                     {% endfor %}

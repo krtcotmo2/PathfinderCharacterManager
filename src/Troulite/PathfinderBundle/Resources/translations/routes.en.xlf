@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2015-10-04T18:05:00Z" source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="0d5ac4bac0bc4c67f32200779055b0bc9a916b4a" resname="api_armors_cget">
+        <source>/api/armors</source>
+        <target state="new">/api/armors</target>
+      </trans-unit>
+      <trans-unit id="3b813ff5089c34b5954f1b6d8e32f7ea35ce9a0d" resname="api_armors_get">
+        <source>/api/armors/{id}</source>
+        <target state="new">/api/armors/{id}</target>
+      </trans-unit>
+      <trans-unit id="49057fda9608340ff431c5afd84b8cd512204d4c" resname="api_belts_cget">
+        <source>/api/belts</source>
+        <target state="new">/api/belts</target>
+      </trans-unit>
+      <trans-unit id="3084cf5a7eef6b98d3f697568e676e41d7c951cf" resname="api_belts_get">
+        <source>/api/belts/{id}</source>
+        <target state="new">/api/belts/{id}</target>
+      </trans-unit>
+      <trans-unit id="11a169cb4cd9da15927ae726e6f7ba8199b9eb50" resname="api_bodies_cget">
+        <source>/api/bodies</source>
+        <target state="new">/api/bodies</target>
+      </trans-unit>
+      <trans-unit id="2a0f8bc102ad839e15d75c135fc1b8ba855246f0" resname="api_bodies_get">
+        <source>/api/bodies/{id}</source>
+        <target state="new">/api/bodies/{id}</target>
+      </trans-unit>
+      <trans-unit id="7b5d501040e686b16c174f2f1734daff398591e7" resname="api_chests_cget">
+        <source>/api/chests</source>
+        <target state="new">/api/chests</target>
+      </trans-unit>
+      <trans-unit id="15f56e62b7fd0a669e35fde2a0b57ace76b9a012" resname="api_chests_get">
+        <source>/api/chests/{id}</source>
+        <target state="new">/api/chests/{id}</target>
+      </trans-unit>
+      <trans-unit id="375a68a398929099721d83478b6da5cd0d5b72b2" resname="api_class_definitions_cget">
+        <source>/api/class_definitions</source>
+        <target state="new">/api/class_definitions</target>
+      </trans-unit>
+      <trans-unit id="b0b64f1c5ef382d309161bbb2bdd876e757cb65c" resname="api_class_definitions_get">
+        <source>/api/class_definitions/{id}</source>
+        <target state="new">/api/class_definitions/{id}</target>
+      </trans-unit>
+      <trans-unit id="da7b461bee6a6efc2920db8634baf6152baa753c" resname="api_class_powers_cget">
+        <source>/api/class_powers</source>
+        <target state="new">/api/class_powers</target>
+      </trans-unit>
+      <trans-unit id="42826cd2307c3a7107c05d36f97c3e6182b95daa" resname="api_class_powers_get">
+        <source>/api/class_powers/{id}</source>
+        <target state="new">/api/class_powers/{id}</target>
+      </trans-unit>
+      <trans-unit id="489aaf6f0cf82f41a9e408c731cdaed8f0547cf7" resname="api_class_spells_cget">
+        <source>/api/class_spells</source>
+        <target state="new">/api/class_spells</target>
+      </trans-unit>
+      <trans-unit id="899190b84967641e730019d2348f5d0c2a943061" resname="api_class_spells_get">
+        <source>/api/class_spells/{id}</source>
+        <target state="new">/api/class_spells/{id}</target>
+      </trans-unit>
+      <trans-unit id="1931dd5cf172ad1804d433977f526ef44cad4de2" resname="api_conditions_cget">
+        <source>/api/conditions</source>
+        <target state="new">/api/conditions</target>
+      </trans-unit>
+      <trans-unit id="41a202861dca243399c3077357c516ad25e772a8" resname="api_conditions_get">
+        <source>/api/conditions/{id}</source>
+        <target state="new">/api/conditions/{id}</target>
+      </trans-unit>
+      <trans-unit id="1539cc3cdf1cb41b8c7f089563a075793f2978ed" resname="api_eyes_cget">
+        <source>/api/eyes</source>
+        <target state="new">/api/eyes</target>
+      </trans-unit>
+      <trans-unit id="ae974ec913c7c4f1831e9cc70ea765bf717e7b4d" resname="api_eyes_get">
+        <source>/api/eyes/{id}</source>
+        <target state="new">/api/eyes/{id}</target>
+      </trans-unit>
+      <trans-unit id="e2b8762337f4aa076e6b54657ed448edb71ad439" resname="api_feats_cget">
+        <source>/api/feats</source>
+        <target state="new">/api/feats</target>
+      </trans-unit>
+      <trans-unit id="77c8a9074ceb293206e7f125cf1558699c34503b" resname="api_feats_get">
+        <source>/api/feats/{id}</source>
+        <target state="new">/api/feats/{id}</target>
+      </trans-unit>
+      <trans-unit id="0840fcd24236d995462c4a360c01402da3dc082b" resname="api_feets_cget">
+        <source>/api/feets</source>
+        <target state="new">/api/feets</target>
+      </trans-unit>
+      <trans-unit id="d84a7d134dac8593dec76bffeccd27f1bfaae5d4" resname="api_feets_get">
+        <source>/api/feets/{id}</source>
+        <target state="new">/api/feets/{id}</target>
+      </trans-unit>
+      <trans-unit id="90d611fb4b497e27f8627c550ceda81abd666481" resname="api_hands_cget">
+        <source>/api/hands</source>
+        <target state="new">/api/hands</target>
+      </trans-unit>
+      <trans-unit id="fd600f53e3703dfd3f1d61e8a3d1fed5fd959a35" resname="api_hands_get">
+        <source>/api/hands/{id}</source>
+        <target state="new">/api/hands/{id}</target>
+      </trans-unit>
+      <trans-unit id="5e4b5abfec3f7243548f6f6a51dbc11e90b2a3a5" resname="api_headbands_cget">
+        <source>/api/headbands</source>
+        <target state="new">/api/headbands</target>
+      </trans-unit>
+      <trans-unit id="59865d308266775461579954c4a76f914df898d7" resname="api_headbands_get">
+        <source>/api/headbands/{id}</source>
+        <target state="new">/api/headbands/{id}</target>
+      </trans-unit>
+      <trans-unit id="c6b2def48bceb00c822c552f2a46121e5a437d5c" resname="api_hydra_vocab">
+        <source>/api/apidoc</source>
+        <target state="new">/api/apidoc</target>
+      </trans-unit>
+      <trans-unit id="7f51af1f1c6952d49e928d6893e2c2e908f66440" resname="api_item_powers_cget">
+        <source>/api/item_powers</source>
+        <target state="new">/api/item_powers</target>
+      </trans-unit>
+      <trans-unit id="ceefbfe847e9e707ef2441b22421bc23b55ac151" resname="api_item_powers_get">
+        <source>/api/item_powers/{id}</source>
+        <target state="new">/api/item_powers/{id}</target>
+      </trans-unit>
+      <trans-unit id="845dcbdd4de5ecff065fa19fdd64b1b1141f7dec" resname="api_json_ld_context">
+        <source>/api/contexts/{shortName}</source>
+        <target state="new">/api/contexts/{shortName}</target>
+      </trans-unit>
+      <trans-unit id="19057a4db468b9f69283142ae06d336821bbcb63" resname="api_json_ld_entrypoint">
+        <source>/api/</source>
+        <target state="new">/api/</target>
+      </trans-unit>
+      <trans-unit id="3b14547adb47aa88b6a39afbe3a1b85151efb81d" resname="api_json_ld_entrypoint_context">
+        <source>/api/contexts/Entrypoint</source>
+        <target state="new">/api/contexts/Entrypoint</target>
+      </trans-unit>
+      <trans-unit id="31d95de9f11603979738b08960fe8c3c760137b5" resname="api_necks_cget">
+        <source>/api/necks</source>
+        <target state="new">/api/necks</target>
+      </trans-unit>
+      <trans-unit id="9bdde7c8ba99df5950cf50746d5461b5d4f65186" resname="api_necks_get">
+        <source>/api/necks/{id}</source>
+        <target state="new">/api/necks/{id}</target>
+      </trans-unit>
+      <trans-unit id="46664f3d8e1f1f11858da5bbadec6954f43ae1cd" resname="api_races_cget">
+        <source>/api/races</source>
+        <target state="new">/api/races</target>
+      </trans-unit>
+      <trans-unit id="07cac07aa78d7f7d1d90ec398b32e71a09aa9357" resname="api_races_get">
+        <source>/api/races/{id}</source>
+        <target state="new">/api/races/{id}</target>
+      </trans-unit>
+      <trans-unit id="2cf4c2ba2e6c0d62a21b828944fa7fbbca26741e" resname="api_rings_cget">
+        <source>/api/rings</source>
+        <target state="new">/api/rings</target>
+      </trans-unit>
+      <trans-unit id="ffe0953bca1f4329694cf9cb1cb8c5c7e210594a" resname="api_rings_get">
+        <source>/api/rings/{id}</source>
+        <target state="new">/api/rings/{id}</target>
+      </trans-unit>
+      <trans-unit id="39239693197b6a699188c1ec0f68b9c9330c7a07" resname="api_shields_cget">
+        <source>/api/shields</source>
+        <target state="new">/api/shields</target>
+      </trans-unit>
+      <trans-unit id="0e546953cda6acb86cd80f27c79727597a35730e" resname="api_shields_get">
+        <source>/api/shields/{id}</source>
+        <target state="new">/api/shields/{id}</target>
+      </trans-unit>
+      <trans-unit id="ba0997a31e8b904f30f3a3b83c0c166bd7239be7" resname="api_shoulders_cget">
+        <source>/api/shoulders</source>
+        <target state="new">/api/shoulders</target>
+      </trans-unit>
+      <trans-unit id="36498618454db930f7072088e890b4431256c15a" resname="api_shoulders_get">
+        <source>/api/shoulders/{id}</source>
+        <target state="new">/api/shoulders/{id}</target>
+      </trans-unit>
+      <trans-unit id="86a81f440e99f63b6fcec2be5e178937dbc046a9" resname="api_skills_cget">
+        <source>/api/skills</source>
+        <target state="new">/api/skills</target>
+      </trans-unit>
+      <trans-unit id="b88c90dfff9933b4c00e571b64e15ff1ce013fa6" resname="api_skills_get">
+        <source>/api/skills/{id}</source>
+        <target state="new">/api/skills/{id}</target>
+      </trans-unit>
+      <trans-unit id="516ef7d80d49684649de7307e2cb5590d42ad9f5" resname="api_spells_cget">
+        <source>/api/spells</source>
+        <target state="new">/api/spells</target>
+      </trans-unit>
+      <trans-unit id="4004fb3b5c309c11a32fff66ec6d9f4dc90eabed" resname="api_spells_get">
+        <source>/api/spells/{id}</source>
+        <target state="new">/api/spells/{id}</target>
+      </trans-unit>
+      <trans-unit id="cc094c95d07a752ec206f345a98c4270b0bc5c9b" resname="api_sub_classes_cget">
+        <source>/api/sub_classes</source>
+        <target state="new">/api/sub_classes</target>
+      </trans-unit>
+      <trans-unit id="0631e2d401904d6bb1a99b2f2b0d5b58a8c66fa1" resname="api_sub_classes_get">
+        <source>/api/sub_classes/{id}</source>
+        <target state="new">/api/sub_classes/{id}</target>
+      </trans-unit>
+      <trans-unit id="cdcd7221752ff38a7de07df97083fca080e20e6b" resname="api_weapons_cget">
+        <source>/api/weapons</source>
+        <target state="new">/api/weapons</target>
+      </trans-unit>
+      <trans-unit id="07e6cb27b0b23c3ccbcf670e80fc84fb97230146" resname="api_weapons_get">
+        <source>/api/weapons/{id}</source>
+        <target state="new">/api/weapons/{id}</target>
+      </trans-unit>
+      <trans-unit id="3118069c638ad02988d791bde72165c36e8c76e5" resname="api_wrists_cget">
+        <source>/api/wrists</source>
+        <target state="new">/api/wrists</target>
+      </trans-unit>
+      <trans-unit id="7414f9e473265093515c368a1737ea35e0cdad7e" resname="api_wrists_get">
+        <source>/api/wrists/{id}</source>
+        <target state="new">/api/wrists/{id}</target>
+      </trans-unit>
+      <trans-unit id="f1f6eaf07f95f39cf1593205d99a9f51fdeba216" resname="character_advancement">
+        <source>/character-advancement</source>
+        <target state="new">/character-advancement</target>
+      </trans-unit>
+      <trans-unit id="efb9909e5099b2455037f688eab808420db82ea2" resname="character_inventory">
+        <source>/characters/{id}/inventory</source>
+        <target state="new">/characters/{id}/inventory</target>
+      </trans-unit>
+      <trans-unit id="e134de03213ae4fad55f81011705af26421954bf" resname="character_inventory_edit">
+        <source>/characters/{id}/inventory/edit</source>
+        <target state="new">/characters/{id}/inventory/edit</target>
+      </trans-unit>
+      <trans-unit id="c180f401c6bfa555f7495a116125d3a9a0063171" resname="character_spells">
+        <source>/characters/{id}/spells</source>
+        <target state="new">/characters/{id}/spells</target>
+      </trans-unit>
+      <trans-unit id="aa908a40ba515918f9d5edbdcad8ebc1fe5c2b42" resname="characters">
+        <source>/characters/</source>
+        <target state="new">/characters/</target>
+      </trans-unit>
+      <trans-unit id="fc5f07e1d5c797d108e4bc5f165f3363f2379f49" resname="characters_delete">
+        <source>/characters/{id}</source>
+        <target state="new">/characters/{id}</target>
+      </trans-unit>
+      <trans-unit id="17aa682a7910236b8d00750a2a29ffa22583252d" resname="characters_edit">
+        <source>/characters/{id}/edit</source>
+        <target state="new">/characters/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="9d42659d0b268ab9d20abb448983c3848042fc2c" resname="characters_hitpoints">
+        <source>/characters/{id}/hitpoints</source>
+        <target state="new">/characters/{id}/hitpoints</target>
+      </trans-unit>
+      <trans-unit id="13b35988d618d0e11fa819e5c8dc4a349a10827b" resname="characters_learn_spell">
+        <source>/characters/{id}/learn-spell</source>
+        <target state="new">/characters/{id}/learn-spell</target>
+      </trans-unit>
+      <trans-unit id="6ba83c55a88ad0a835bba0e6e1604c395d26bd53" resname="characters_levels_edit">
+        <source>/characters/{character}/levels/{level}/edit</source>
+        <target state="new">/characters/{character}/levels/{level}/edit</target>
+      </trans-unit>
+      <trans-unit id="c65b3a48204e31899c6d52719758cfea59488966" resname="characters_levelup">
+        <source>/characters/{id}/levelup</source>
+        <target state="new">/characters/{id}/levelup</target>
+      </trans-unit>
+      <trans-unit id="b20333cb3bfc6a2dc444d9bd27530b54ff22a3b6" resname="characters_new">
+        <source>/characters/new</source>
+        <target state="new">/characters/new</target>
+      </trans-unit>
+      <trans-unit id="792e49426a1ca36963a06144bb748d44ba80273d" resname="characters_notes">
+        <source>/characters/{id}/notes/{type}</source>
+        <target state="new">/characters/{id}/notes/{type}</target>
+      </trans-unit>
+      <trans-unit id="1a2558993c5f133d48f2783961a8c348eee5d41f" resname="characters_show">
+        <source>/characters/{id}</source>
+        <target state="new">/characters/{id}</target>
+      </trans-unit>
+      <trans-unit id="1b52db884c6f3f79c37bb7809bbeba906d9beac8" resname="characters_sleep">
+        <source>/characters/{id}/sleep</source>
+        <target state="new">/characters/{id}/sleep</target>
+      </trans-unit>
+      <trans-unit id="b7971687265c6dae12e9464c92fcec03e1e9d893" resname="characters_update">
+        <source>/characters/{id}/update</source>
+        <target state="new">/characters/{id}/update</target>
+      </trans-unit>
+      <trans-unit id="1adaa84dc07a16d34ede5b9a70713ff832a0f853" resname="classes">
+        <source>/classes/</source>
+        <target state="new">/classes/</target>
+      </trans-unit>
+      <trans-unit id="8394a5d1ac85a0801ddfbb17efea2356cb6ce50a" resname="classes_edit">
+        <source>/classes/{id}/edit</source>
+        <target state="new">/classes/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="f13b04f852f511ad7a13f3235ad686be16d6981b" resname="classes_new">
+        <source>/classes/new</source>
+        <target state="new">/classes/new</target>
+      </trans-unit>
+      <trans-unit id="c7b252e55b55995e881ad68bc13a6e74c4eaf55b" resname="classes_show">
+        <source>/classes/{id}</source>
+        <target state="new">/classes/{id}</target>
+      </trans-unit>
+      <trans-unit id="f8eb525d26e1bfccf25865e02eef17703b609c66" resname="conditions">
+        <source>/conditions/</source>
+        <target state="new">/conditions/</target>
+      </trans-unit>
+      <trans-unit id="afdf63684e43880c7da467d2e65b27d589c2b469" resname="conditions_create">
+        <source>/conditions/</source>
+        <target state="new">/conditions/</target>
+      </trans-unit>
+      <trans-unit id="36a690db662cfb6e181d1d854dd697d9bfaf9d4e" resname="conditions_delete">
+        <source>/conditions/{id}</source>
+        <target state="new">/conditions/{id}</target>
+      </trans-unit>
+      <trans-unit id="aff41ba302e630e7f1e25f1bde54142b4de8f717" resname="conditions_edit">
+        <source>/conditions/{id}/edit</source>
+        <target state="new">/conditions/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="ddf2c379d2f271541158fd614f21a6f36d1dcae6" resname="conditions_new">
+        <source>/conditions/new</source>
+        <target state="new">/conditions/new</target>
+      </trans-unit>
+      <trans-unit id="d369f4290910f0fc43dcdd85804a7a18b11a1654" resname="conditions_show">
+        <source>/conditions/{id}</source>
+        <target state="new">/conditions/{id}</target>
+      </trans-unit>
+      <trans-unit id="a7db276145b80a85bf67ad8bee2ff78a966ecf49" resname="conditions_update">
+        <source>/conditions/{id}</source>
+        <target state="new">/conditions/{id}</target>
+      </trans-unit>
+      <trans-unit id="b69d4f9bc7a530cb8d7d153b1985761c5f5751b0" resname="counter_new">
+        <source>/characters/{character}/counters/new</source>
+        <target state="new">/characters/{character}/counters/new</target>
+      </trans-unit>
+      <trans-unit id="2b00d592b29622879a913dbe369661c9f65e751d" resname="counter_show">
+        <source>/characters/{character}/counters</source>
+        <target state="new">/characters/{character}/counters</target>
+      </trans-unit>
+      <trans-unit id="c309e886a0aadab1bc26d91f691ff8114b90d1e4" resname="feats">
+        <source>/feats/</source>
+        <target state="new">/feats/</target>
+      </trans-unit>
+      <trans-unit id="87468717e209ccac74fcd53028cc79c47c19552f" resname="feats_edit">
+        <source>/feats/{id}/edit</source>
+        <target state="new">/feats/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="ee9617a268347692a4ba246928510c05945314fc" resname="feats_new">
+        <source>/feats/new</source>
+        <target state="new">/feats/new</target>
+      </trans-unit>
+      <trans-unit id="74547e90346caeb7b25c975d4be00abe4c6bafae" resname="feats_show">
+        <source>/feats/{id}</source>
+        <target state="new">/feats/{id}</target>
+      </trans-unit>
+      <trans-unit id="3e7a1eb65964daab6c8503cea70e628e3f933ce0" resname="fos_user_change_password">
+        <source>/profile/change-password</source>
+        <target state="new">/profile/change-password</target>
+      </trans-unit>
+      <trans-unit id="56b3a6ada30dfd28ac66103a8e353a587af05892" resname="fos_user_group_delete">
+        <source>/group/{groupName}/delete</source>
+        <target state="new">/group/{groupName}/delete</target>
+      </trans-unit>
+      <trans-unit id="20a2f70086870365a8eaab2e91a3fa05503e3360" resname="fos_user_group_edit">
+        <source>/group/{groupName}/edit</source>
+        <target state="new">/group/{groupName}/edit</target>
+      </trans-unit>
+      <trans-unit id="d1f2713deaedbf4e1678b930dec094b3c7a4000d" resname="fos_user_group_list">
+        <source>/group/list</source>
+        <target state="new">/group/list</target>
+      </trans-unit>
+      <trans-unit id="c0f03b02030427c9c317295fba3bc85da9146046" resname="fos_user_group_new">
+        <source>/group/new</source>
+        <target state="new">/group/new</target>
+      </trans-unit>
+      <trans-unit id="1386c9768e82c78881e65d88218edaa0192716d2" resname="fos_user_group_show">
+        <source>/group/{groupName}</source>
+        <target state="new">/group/{groupName}</target>
+      </trans-unit>
+      <trans-unit id="89d9f90f552727a161575b47336d827555229023" resname="fos_user_profile_edit">
+        <source>/profile/edit</source>
+        <target state="new">/profile/edit</target>
+      </trans-unit>
+      <trans-unit id="a5c247e0ed2953f5e091126240a417a30fe47c12" resname="fos_user_profile_show">
+        <source>/profile/</source>
+        <target state="new">/profile/</target>
+      </trans-unit>
+      <trans-unit id="a7796b4f4f42c56769357a8303569fc003731e87" resname="fos_user_registration_check_email">
+        <source>/register/check-email</source>
+        <target state="new">/register/check-email</target>
+      </trans-unit>
+      <trans-unit id="22ca20e7a4ac37652a84e45daaf1e68e388eca26" resname="fos_user_registration_confirm">
+        <source>/register/confirm/{token}</source>
+        <target state="new">/register/confirm/{token}</target>
+      </trans-unit>
+      <trans-unit id="43816e069e01819401d9822574dad6c50d82d2d7" resname="fos_user_registration_confirmed">
+        <source>/register/confirmed</source>
+        <target state="new">/register/confirmed</target>
+      </trans-unit>
+      <trans-unit id="693eeded1b8403ebe14463be5de2a9a1ecefbf14" resname="fos_user_registration_register">
+        <source>/register/</source>
+        <target state="new">/register/</target>
+      </trans-unit>
+      <trans-unit id="031c418d91c7b50426906ae4ad5b80194b7e153e" resname="fos_user_resetting_check_email">
+        <source>/resetting/check-email</source>
+        <target state="new">/resetting/check-email</target>
+      </trans-unit>
+      <trans-unit id="57721581c69f4c8163632a830f07d82ee0d719f3" resname="fos_user_resetting_request">
+        <source>/resetting/request</source>
+        <target state="new">/resetting/request</target>
+      </trans-unit>
+      <trans-unit id="3631be6fbf01f3e1ac7ed153ed4648c6469fe0e2" resname="fos_user_resetting_reset">
+        <source>/resetting/reset/{token}</source>
+        <target state="new">/resetting/reset/{token}</target>
+      </trans-unit>
+      <trans-unit id="b68f7e5fae30e8373429c4abe045ae50b8f5f762" resname="fos_user_resetting_send_email">
+        <source>/resetting/send-email</source>
+        <target state="new">/resetting/send-email</target>
+      </trans-unit>
+      <trans-unit id="33d36422431d1bc6e64296b7b849a049c426bfb1" resname="fos_user_security_check">
+        <source>/login_check</source>
+        <target state="new">/login_check</target>
+      </trans-unit>
+      <trans-unit id="e33cc56c226adb625998728b77c6d7989d693f61" resname="fos_user_security_login">
+        <source>/login</source>
+        <target state="new">/login</target>
+      </trans-unit>
+      <trans-unit id="00fb021cee4fd738a7b66a0f5deb9f30bf059593" resname="fos_user_security_logout">
+        <source>/logout</source>
+        <target state="new">/logout</target>
+      </trans-unit>
+      <trans-unit id="e540cdd1328b2b21e29a95405c301b9313b7c346" resname="index">
+        <source>/</source>
+        <target state="new">/</target>
+      </trans-unit>
+      <trans-unit id="31ca6b0efeb93dff5abd60e96068630be5956a3c" resname="items_edit">
+        <source>/items/{id}/edit</source>
+        <target state="new">/items/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="7d77bf0a23eb7e581d7d4fbc291094fbbc9c446d" resname="items_new">
+        <source>/items/new/{type}</source>
+        <target state="new">/items/new/{type}</target>
+      </trans-unit>
+      <trans-unit id="0221cf35cacbb8c76f5197c2b14c6b5262a54254" resname="items_show">
+        <source>/items/{id}</source>
+        <target state="new">/items/{id}</target>
+      </trans-unit>
+      <trans-unit id="835a6c99c05b1619f45d0c2072e3c92e3bb77b6e" resname="layout_footer">
+        <source>/layout/footer</source>
+        <target state="new">/layout/footer</target>
+      </trans-unit>
+      <trans-unit id="1d2d255b5b5998eb90a7e9cc8fa93bdbe6679eb7" resname="layout_header">
+        <source>/layout/header</source>
+        <target state="new">/layout/header</target>
+      </trans-unit>
+      <trans-unit id="5c54b5124c333ccc4be1b9f960b84ba9f8153083" resname="list_items">
+        <source>/items/{slot}</source>
+        <target state="new">/items/{slot}</target>
+      </trans-unit>
+      <trans-unit id="0de496533deab55f9bb1d6cacc50c7c67e325ceb" resname="logbook">
+        <source>/parties/{id}/logbook</source>
+        <target state="new">/parties/{id}/logbook</target>
+      </trans-unit>
+      <trans-unit id="6c26f8a1f58233f484a5e6ee9d1a99df7bc8d4a9" resname="logbook_edit">
+        <source>/parties/{id}/logbook/edit</source>
+        <target state="new">/parties/{id}/logbook/edit</target>
+      </trans-unit>
+      <trans-unit id="1b6510f54c751b5979410ad21213ccb25abf99b6" resname="nelmio_api_doc_index">
+        <source>/api/doc/{view}</source>
+        <target state="new">/api/doc/{view}</target>
+      </trans-unit>
+      <trans-unit id="c2b82b91d00b5ad8df1300e77de139499516ab2f" resname="parties">
+        <source>/parties/</source>
+        <target state="new">/parties/</target>
+      </trans-unit>
+      <trans-unit id="ba09b7cb7a7feb9a18f1af9b81ff98a01ca389f1" resname="parties_create">
+        <source>/parties/</source>
+        <target state="new">/parties/</target>
+      </trans-unit>
+      <trans-unit id="77a7c9b0dfbc57480be1ace76f9f691d71f78828" resname="parties_delete">
+        <source>/parties/{id}</source>
+        <target state="new">/parties/{id}</target>
+      </trans-unit>
+      <trans-unit id="5be8ccd442fb12bee7953b6a23df06c4426fb69b" resname="parties_edit">
+        <source>/parties/{id}/edit</source>
+        <target state="new">/parties/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="f872386af3214b2a5ef1ea3bd107eb354909ed27" resname="parties_new">
+        <source>/parties/new</source>
+        <target state="new">/parties/new</target>
+      </trans-unit>
+      <trans-unit id="b19fb6f5a070455d73fa3152d9963131780faf1f" resname="parties_show">
+        <source>/parties/{id}</source>
+        <target state="new">/parties/{id}</target>
+      </trans-unit>
+      <trans-unit id="9d98c9795d3b8fb961c6e1a2cc35950a245ebcca" resname="parties_update">
+        <source>/parties/{id}</source>
+        <target state="new">/parties/{id}</target>
+      </trans-unit>
+      <trans-unit id="793fe21f10d4a2300ab7659b627a7a053200c2e5" resname="party_dm">
+        <source>/parties/{id}/dm</source>
+        <target state="new">/parties/{id}/dm</target>
+      </trans-unit>
+      <trans-unit id="f996debd15ad2a0261a118535a6c454bddba7401" resname="races">
+        <source>/races/</source>
+        <target state="new">/races/</target>
+      </trans-unit>
+      <trans-unit id="96f4140eaae9563214795af5b3cabba6fef694e6" resname="races_show">
+        <source>/races/{id}</source>
+        <target state="new">/races/{id}</target>
+      </trans-unit>
+      <trans-unit id="816f2b87d3d3be351dee9d599849e5804aacc967" resname="skills">
+        <source>/skills/</source>
+        <target state="new">/skills/</target>
+      </trans-unit>
+      <trans-unit id="ba6fbe9942f509d6c640ed61a254487b5453fc4f" resname="spells">
+        <source>/spells/</source>
+        <target state="new">/spells/</target>
+      </trans-unit>
+      <trans-unit id="348973ae5c0e59b82da13bd110526d7583ed1bbb" resname="spells_show">
+        <source>/spells/{id}</source>
+        <target state="new">/spells/{id}</target>
+      </trans-unit>
+      <trans-unit id="af30efae8df17286551c6977c41cd3544f7cccb0" resname="subclasses">
+        <source>/subclasses/</source>
+        <target state="new">/subclasses/</target>
+      </trans-unit>
+      <trans-unit id="796e12e407e12e3ab2b24e580e19f37d09f69dc2" resname="subclasses_create">
+        <source>/subclasses/</source>
+        <target state="new">/subclasses/</target>
+      </trans-unit>
+      <trans-unit id="e24260ea3c4bc7561a4fef287d29884950a7f46e" resname="subclasses_delete">
+        <source>/subclasses/{id}</source>
+        <target state="new">/subclasses/{id}</target>
+      </trans-unit>
+      <trans-unit id="42815fe5ced97c0d2824c9a5276aa550d4f92b6d" resname="subclasses_edit">
+        <source>/subclasses/{id}/edit</source>
+        <target state="new">/subclasses/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="18e7bdd01d4f1a9e7f955255b880018d8e8871c4" resname="subclasses_new">
+        <source>/subclasses/new</source>
+        <target state="new">/subclasses/new</target>
+      </trans-unit>
+      <trans-unit id="86fc3e095727bdd1acb525db9933765250d8e898" resname="subclasses_show">
+        <source>/subclasses/{id}</source>
+        <target state="new">/subclasses/{id}</target>
+      </trans-unit>
+      <trans-unit id="3192a395b4fb6a36480baa68d64d441c0b0fa4aa" resname="subclasses_update">
+        <source>/subclasses/{id}</source>
+        <target state="new">/subclasses/{id}</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

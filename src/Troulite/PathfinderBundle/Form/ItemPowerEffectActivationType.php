@@ -39,7 +39,7 @@ class ItemPowerEffectActivationType extends AbstractType
             ->add(
                 'active',
                 null,
-                array("required" => false)
+                array("required" => false, 'translation_domain' => 'itempowers')
             );
     }
 

@@ -31,13 +31,11 @@ use Doctrine\ORM\Mapping as ORM;
  * @package Troulite\PathfinderBundle\Entity\Traits
  */
 trait Power {
-    use Describable;
 
     /**
      * @var string
      *
      * @ORM\Column(type="string", nullable=true)
-     * @Gedmo\Translatable()
      */
     private $name;
 
@@ -75,7 +73,6 @@ trait Power {
      * @ORM\Column(type="json_array", nullable=true)
      */
     private $prerequisities;
-
 
     /**
      * Set name

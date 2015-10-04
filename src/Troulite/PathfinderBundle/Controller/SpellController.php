@@ -56,11 +56,6 @@ ___DQL;
 
         $query = $em->createQuery($dql);
 
-        $query->setHint(
-            Query::HINT_CUSTOM_OUTPUT_WALKER,
-            'Gedmo\\Translatable\\Query\\TreeWalker\\TranslationWalker'
-        );
-
         $query->useResultCache(
             true,
             3600

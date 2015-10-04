@@ -57,6 +57,7 @@ class ClassPowerActivationType extends AbstractType
                             'choices'  => $choices,
                             'mapped'   => false,
                             'required' => false,
+                            'translation_domain' => 'classpowers'
                         )
                     )
                     ->add(
@@ -67,14 +68,13 @@ class ClassPowerActivationType extends AbstractType
                             'required' => false,
                             'widget_checkbox_label' => 'widget',
                             'label_attr' => array('class' => null)
-
                         )
                     );
                 } else {
                     $form->add(
                         'active',
                         null,
-                        array("required" => false, 'horizontal_label_class' => null)
+                        array("required" => false, 'horizontal_label_class' => null, 'translation_domain' => 'classpowers')
                     );
                 }
             }

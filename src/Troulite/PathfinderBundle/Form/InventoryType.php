@@ -42,7 +42,7 @@ class InventoryType extends AbstractType
                 'collection',
                 array(
                     'type' => new EquipmentInventoryItemType(),
-                    'label' => /** @Ignore */ false
+                    'label' => /** @Ignore */ false,
                 )
             )
         ;

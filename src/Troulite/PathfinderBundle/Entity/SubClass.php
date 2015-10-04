@@ -21,9 +21,7 @@ namespace Troulite\PathfinderBundle\Entity;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
-use Gedmo\Mapping\Annotation as Gedmo;
 use Symfony\Component\Validator\Constraints as Assert;
-use Troulite\PathfinderBundle\Entity\Traits\Describable;
 
 
 /**
@@ -35,7 +33,6 @@ use Troulite\PathfinderBundle\Entity\Traits\Describable;
  */
 class SubClass
 {
-    use Describable;
 
     /**
      * @var integer
@@ -50,7 +47,6 @@ class SubClass
      * @var string
      *
      * @ORM\Column(type="string", length=255)
-     * @Gedmo\Translatable()
      */
     private $name;
 

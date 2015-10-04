@@ -42,7 +42,7 @@
                                 {{ 'powers'|trans }}:
                                 <ul>
                                 {% for power in entity.powers %}
-                                    <li>{{ power }}</li>
+                                    <li>{{ (power ~ '.name')|trans({}, 'itempowers') }}</li>
                                 {% endfor %}
                                 </ul>
                             {% endif %}

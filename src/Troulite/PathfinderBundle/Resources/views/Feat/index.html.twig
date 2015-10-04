@@ -14,11 +14,15 @@
         <tbody>
         {% for entity in entities %}
             <tr>
-                <td><a href="{{ path('feats_show', { 'id': entity.id }) }}">{{ entity.name }}</a></td>
                 <td>
-                    {{ entity.shortDescription|raw }}
+                    <a href="{{ path('feats_show', { 'id': entity.id }) }}">
+                        {{ (entity ~ '.name')|trans({}, 'feats') }}
+                    </a>
+                </td>
+                <td>
+                    {{ (entity ~ '.shortdesc')|trans({}, 'feats')|raw }}
                     <script type="text/html">
-                        {{ entity.longDescription|raw }}
+                        {{ (entity ~ '.longdesc')|trans({}, 'feats')|raw }}
                     </script>
                 </td>
             </tr>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2015-10-04T21:28:12Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="556ec2db4f535556f7738ee6e87a59f29aaa0285" resname="acrobatics.name">
+        <source>acrobatics.name</source>
+        <target>Acrobaties</target>
+      </trans-unit>
+      <trans-unit id="9dc3c086cff5a4ce98c80956653cf28d4d594ed3" resname="appraise.name">
+        <source>appraise.name</source>
+        <target>Estimation</target>
+      </trans-unit>
+      <trans-unit id="ba38c91b66247b00907d059a6c8236f58432fe9a" resname="bluff.name">
+        <source>bluff.name</source>
+        <target>Bluff</target>
+      </trans-unit>
+      <trans-unit id="1ebe7a23d54d22e08b00114e6efcd07eded7b86a" resname="climb.name">
+        <source>climb.name</source>
+        <target>Escalade</target>
+      </trans-unit>
+      <trans-unit id="c5c837e25e2a0e7eade36fd0516829b831f6509b" resname="craft-alchemy.name">
+        <source>craft-alchemy.name</source>
+        <target>Artisanat (Alchimie)</target>
+      </trans-unit>
+      <trans-unit id="75b4839fe98f8f32093fb902af04a37d9d457b9c" resname="craft-armors.name">
+        <source>craft-armors.name</source>
+        <target>Artisanat (Armures)</target>
+      </trans-unit>
+      <trans-unit id="eb86349db8700d97998a304822e1127790e4f2a5" resname="craft-bows.name">
+        <source>craft-bows.name</source>
+        <target>Artisanat (Arcs)</target>
+      </trans-unit>
+      <trans-unit id="2217bec5adde2d397d5659c3857e9fdf854293a1" resname="craft-traps.name">
+        <source>craft-traps.name</source>
+        <target>Artisanat (Pièges)</target>
+      </trans-unit>
+      <trans-unit id="cdf68117e899261e89969ff8ad35d1031736ce56" resname="craft-weapons.name">
+        <source>craft-weapons.name</source>
+        <target>Artisanat (Armes)</target>
+      </trans-unit>
+      <trans-unit id="4d00832d5d5cbcf3275f90831fb72776026dc1c0" resname="craft.name">
+        <source>craft.name</source>
+        <target>Artisanat</target>
+      </trans-unit>
+      <trans-unit id="cfa7c94e3478073aee54e42e7b3b32b8ba945ca7" resname="diplomacy.name">
+        <source>diplomacy.name</source>
+        <target>Diplomatie</target>
+      </trans-unit>
+      <trans-unit id="399cf23ea29191b81ba478a72aecb6efb5c835b2" resname="disable-device.name">
+        <source>disable-device.name</source>
+        <target>Sabotage</target>
+      </trans-unit>
+      <trans-unit id="61efa2760183c55bfb88067639eb73d64b33daa3" resname="disguise.name">
+        <source>disguise.name</source>
+        <target>Déguisement</target>
+      </trans-unit>
+      <trans-unit id="5b736545420f7a55fda304fe6f6fec6d1a85c371" resname="escape-artist.name">
+        <source>escape-artist.name</source>
+        <target>Evasion</target>
+      </trans-unit>
+      <trans-unit id="62bd6291431a570e07eb571dbafee6febd315e11" resname="fly.name">
+        <source>fly.name</source>
+        <target>Vol</target>
+      </trans-unit>
+      <trans-unit id="6a05716f959d0e8a4dc3227d394a9994f2d71945" resname="handle-animal.name">
+        <source>handle-animal.name</source>
+        <target>Dressage</target>
+      </trans-unit>
+      <trans-unit id="50fa35fcd2f31b433fd843b4befbf635d6c4e90f" resname="heal.name">
+        <source>heal.name</source>
+        <target>Premiers secours</target>
+      </trans-unit>
+      <trans-unit id="8c9c2eed0d3e010ea0a08605fc7dbaa45ed5c91b" resname="intimidate.name">
+        <source>intimidate.name</source>
+        <target>Intimidation</target>
+      </trans-unit>
+      <trans-unit id="80ce555a8a7232f07eb9c477caaa2bdbea8639b3" resname="knowledge-arcana.name">
+        <source>knowledge-arcana.name</source>
+        <target>Connaissance (Mystères)</target>
+      </trans-unit>
+      <trans-unit id="66a8d308962678974c23e9821b6524c269612463" resname="knowledge-dungeoneering.name">
+        <source>knowledge-dungeoneering.name</source>
+        <target>Connaissance (Exploration)</target>
+      </trans-unit>
+      <trans-unit id="bddf1bf990edcc43a01cad16d7e1693afa5e3714" resname="knowledge-engineering.name">
+        <source>knowledge-engineering.name</source>
+        <target>Connaissance (Ingénierie)</target>
+      </trans-unit>
+      <trans-unit id="3cc9a78a5a92ae405b13274cd02a80fbc08e8082" resname="knowledge-geography.name">
+        <source>knowledge-geography.name</source>
+        <target>Connaissance (Géographie)</target>
+      </trans-unit>
+      <trans-unit id="b5274cc25a41c87c65a86ecc42f2988a876ccc03" resname="knowledge-history.name">
+        <source>knowledge-history.name</source>
+        <target>Connaissance (Histoire)</target>
+      </trans-unit>
+      <trans-unit id="6c3e5345b670816c6af8670994f1122a222019de" resname="knowledge-linguistics.name">
+        <source>knowledge-linguistics.name</source>
+        <target>Linguistique</target>
+      </trans-unit>
+      <trans-unit id="bad5411226ffa40914f760d27aec2c54a21a70ed" resname="knowledge-local.name">
+        <source>knowledge-local.name</source>
+        <target>Connaissance (Folklore Local)</target>
+      </trans-unit>
+      <trans-unit id="4e75ad078f2fd968838d7307c5b054333552c962" resname="knowledge-nature.name">
+        <source>knowledge-nature.name</source>
+        <target>Connaissance (Nature)</target>
+      </trans-unit>
+      <trans-unit id="0563e870c446512d00a2066c1addd0dc76c68e9a" resname="knowledge-nobility.name">
+        <source>knowledge-nobility.name</source>
+        <target>Connaissance (Noblesse)</target>
+      </trans-unit>
+      <trans-unit id="ef8c027f4baa93e1bb395cea91aed343146ac956" resname="knowledge-planes.name">
+        <source>knowledge-planes.name</source>
+        <target>Connaissance (Plans)</target>
+      </trans-unit>
+      <trans-unit id="4e023538cf767f50af75a211d9c90c420ad3c5b3" resname="knowledge-religion.name">
+        <source>knowledge-religion.name</source>
+        <target>Connaissance (Religion)</target>
+      </trans-unit>
+      <trans-unit id="1c281b57b99ae85f9c2389345d975371567b64ea" resname="perception.name">
+        <source>perception.name</source>
+        <target>Perception</target>
+      </trans-unit>
+      <trans-unit id="74f94910ecf8899f3bf3c153aef4a51ab2640c68" resname="perform.name">
+        <source>perform.name</source>
+        <target>Représentation</target>
+      </trans-unit>
+      <trans-unit id="bcc6011c7159bf712b9b3ba19b37efb2d290b894" resname="profession.name">
+        <source>profession.name</source>
+        <target>Profession</target>
+      </trans-unit>
+      <trans-unit id="e41b9bd27ce8314496c1e3f278ea92c91f942d43" resname="ride.name">
+        <source>ride.name</source>
+        <target>Equitation</target>
+      </trans-unit>
+      <trans-unit id="9b8de51ff17fc5b11c70768fc42c8f00d27fb6fb" resname="sense-motive.name">
+        <source>sense-motive.name</source>
+        <target>Psychologie</target>
+      </trans-unit>
+      <trans-unit id="c24f69550943363d80ef060ab67de67b3107e5a0" resname="sleight-of-hand.name">
+        <source>sleight-of-hand.name</source>
+        <target>Escamotage</target>
+      </trans-unit>
+      <trans-unit id="1af09a746a676f2ca27e400967f0b88b8b920ba4" resname="spellcraft.name">
+        <source>spellcraft.name</source>
+        <target>Art de la magie</target>
+      </trans-unit>
+      <trans-unit id="aa43631439421c9fc416fd1b66e7088880341ce8" resname="stealth.name">
+        <source>stealth.name</source>
+        <target>Discrétion</target>
+      </trans-unit>
+      <trans-unit id="47703946487fd7aefaedea7150f2f2949a710717" resname="survival.name">
+        <source>survival.name</source>
+        <target>Survie</target>
+      </trans-unit>
+      <trans-unit id="af31e4c012409fc6f2d4e96cf67ed7caf305c34c" resname="swim.name">
+        <source>swim.name</source>
+        <target>Natation</target>
+      </trans-unit>
+      <trans-unit id="07156f327f2e6845d9f5183f628d2bade8845a04" resname="use-magic-device.name">
+        <source>use-magic-device.name</source>
+        <target>Utilisation d'objets magiques</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

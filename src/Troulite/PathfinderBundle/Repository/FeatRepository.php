@@ -71,10 +71,6 @@ class FeatRepository extends EntityRepository
      */public function findByAvailableFor(Character $Character)
     {
         $query = $this->queryAvailableFor($Character)->getQuery();
-        $query->setHint(
-            Query::HINT_CUSTOM_OUTPUT_WALKER,
-            'Gedmo\\Translatable\\Query\\TreeWalker\\TranslationWalker'
-        );
         return $query->getResult();
     }
 } 

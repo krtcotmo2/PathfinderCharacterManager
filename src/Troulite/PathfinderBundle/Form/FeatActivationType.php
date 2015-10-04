@@ -39,7 +39,7 @@ class FeatActivationType extends AbstractType
             ->add(
                 'active',
                 null,
-                array("required" => false, 'horizontal_input_wrapper_class' => null)
+                array("required" => false, 'horizontal_input_wrapper_class' => null, 'translation_domain' => 'feats')
             );
     }
 

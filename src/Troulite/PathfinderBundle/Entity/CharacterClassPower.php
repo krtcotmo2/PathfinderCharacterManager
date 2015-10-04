@@ -232,6 +232,6 @@ class CharacterClassPower
      */
     public function __toString()
     {
-        return $this->getClassPower()->getName();
+        return $this->getClassPower()->__toString();
     }
 }

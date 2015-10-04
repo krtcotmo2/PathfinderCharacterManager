@@ -15,56 +15,60 @@
         <tbody>
         {% for entity in entities %}
             <tr>
-                <td><a href="{{ path('spells_show', {'id': entity.id}) }}">{{ entity.name }}</a></td>
                 <td>
-                    {{ entity.shortDescription|raw }}
+                    <a href="{{ path('spells_show', {'id': entity.id}) }}">
+                        {{ (entity ~ '.name')|trans({}, 'spells') }}
+                    </a>
+                </td>
+                <td>
+                    {{ (entity ~ '.shortdesc')|trans({}, 'spells')|raw }}
                     <script type="text/html">
                         <dl class="dl-horizontal">
-                            <dt>Casting Time</dt>
+                            <dt>{{ 'casting_time'|trans }}</dt>
                             <dd>{{ entity.castingTime }}</dd>
 
-                            <dt>Components</dt>
+                            <dt>{{ 'components'|trans }}</dt>
                             <dd>{{ entity.components }}</dd>
 
-                            <dt>Range</dt>
+                            <dt>{{ 'range'|trans }}</dt>
                             <dd>{{ entity.range }}</dd>
 
-                            <dt>Duration</dt>
+                            <dt>{{ 'duration'|trans }}</dt>
                             <dd>{{ entity.duration }}</dd>
 
-                            <dt>Saving throw</dt>
-                            <dd>{{ entity.savingThrow|default('None') }}</dd>
+                            <dt>{{ 'savieng_throw'|trans }}</dt>
+                            <dd>{{ entity.savingThrow|default('none')|trans }}</dd>
 
-                            <dt>Spell Resistance</dt>
-                            <dd>{{ entity.spellResistance ? 'Yes' : 'No' }}</dd>
+                            <dt>{{ 'spell_resistance'|trans }}</dt>
+                            <dd>{{ entity.spellResistance ? 'yes'|trans : 'no'|trans }}</dd>
 
                             {% if entity.targets %}
-                                <dt>Targets</dt>
+                                <dt>{{ 'targets'|trans }}</dt>
                                 <dd>{{ entity.targets }}</dd>
                             {% endif %}
 
                             {% if entity.effects %}
-                                <dt>Effects</dt>
+                                <dt>{{ 'effects'|trans }}</dt>
                                 {% for key, effect in entity.effects %}
                                     <dd>{{ key }}: {{ effect.value }} ({{ effect.type }})</dd>
                                 {% endfor %}
                             {% endif %}
 
                             {% if entity.conditions %}
-                                <dt>Conditions</dt>
+                                <dt>{{ 'conditions'|trans }}</dt>
                                 {% for key, condition in entity.condition %}
                                     <dd>{{ key }}: {{ condition }}</dd>
                                 {% endfor %}
                             {% endif %}
 
                             {% if entity.externalConditions %}
-                                <dt>Externalconditions</dt>
+                                <dt>{{ 'external_conditions'|trans }}</dt>
                                 {% for key, conditions in entity.externalConditions %}
                                     <dd>{{ key }}: {{ condition }}</dd>
                                 {% endfor %}
                             {% endif %}
                         </dl>
-                        {{ entity.longDescription|raw }}
+                        {{ (entity ~ '.longdesc')|trans({}, 'spells')|raw }}
                     </script>
                 </td>
                 <td>

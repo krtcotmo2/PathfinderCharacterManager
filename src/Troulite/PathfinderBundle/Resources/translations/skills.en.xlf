@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+        <body>
+            <trans-unit id="9477e633b055575e3d2b69489a534317" resname="acrobatics.name">
+                <source>acrobatics.name</source>
+                <target><![CDATA[Acrobatics]]></target>
+            </trans-unit>
+            <trans-unit id="5fa3d48fbe7aad6e67118a194d952a0e" resname="appraise.name">
+                <source>appraise.name</source>
+                <target><![CDATA[Appraise]]></target>
+            </trans-unit>
+            <trans-unit id="f831d34cb8b5b03c7b16a78528cc35b0" resname="bluff.name">
+                <source>bluff.name</source>
+                <target><![CDATA[Bluff]]></target>
+            </trans-unit>
+            <trans-unit id="e23ccfcc654de03385f2a6532015c660" resname="climb.name">
+                <source>climb.name</source>
+                <target><![CDATA[Climb]]></target>
+            </trans-unit>
+            <trans-unit id="e1cb6821dbafea9c3c32c7221179948a" resname="craft.name">
+                <source>craft.name</source>
+                <target><![CDATA[Craft]]></target>
+            </trans-unit>
+            <trans-unit id="deff6e634e9b610eee8125c1204d6cf0" resname="diplomacy.name">
+                <source>diplomacy.name</source>
+                <target><![CDATA[Diplomacy]]></target>
+            </trans-unit>
+            <trans-unit id="dd388736c5d4db868717726f7d437387" resname="disable-device.name">
+                <source>disable-device.name</source>
+                <target><![CDATA[Disable Device]]></target>
+            </trans-unit>
+            <trans-unit id="c6f6f631145665b2c94985ba13df63b9" resname="disguise.name">
+                <source>disguise.name</source>
+                <target><![CDATA[Disguise]]></target>
+            </trans-unit>
+            <trans-unit id="ffe9081ab8b69f3b47a8a2bce15ff245" resname="escape-artist.name">
+                <source>escape-artist.name</source>
+                <target><![CDATA[Escape Artist]]></target>
+            </trans-unit>
+            <trans-unit id="9da888a9af6c75d974ffe877747d1546" resname="fly.name">
+                <source>fly.name</source>
+                <target><![CDATA[Fly]]></target>
+            </trans-unit>
+            <trans-unit id="3612d35d4a291f74aff8b129154459bb" resname="handle-animal.name">
+                <source>handle-animal.name</source>
+                <target><![CDATA[Handle Animal]]></target>
+            </trans-unit>
+            <trans-unit id="6553601ace087f80ea021523faa8164f" resname="heal.name">
+                <source>heal.name</source>
+                <target><![CDATA[Heal]]></target>
+            </trans-unit>
+            <trans-unit id="f5eb7336b82acf2efcc64477d4d2e015" resname="intimidate.name">
+                <source>intimidate.name</source>
+                <target><![CDATA[Intimidate]]></target>
+            </trans-unit>
+            <trans-unit id="aae35e5a35b2c11027a3d093b419fdbd" resname="knowledge-arcana.name">
+                <source>knowledge-arcana.name</source>
+                <target><![CDATA[Knowledge (Arcana)]]></target>
+            </trans-unit>
+            <trans-unit id="1a80f70fe93c3b643af9a77cbbe0cb77" resname="knowledge-dungeoneering.name">
+                <source>knowledge-dungeoneering.name</source>
+                <target><![CDATA[Knowledge (Dungeoneering)]]></target>
+            </trans-unit>
+            <trans-unit id="8eb026635a4d9d0511ac8db9acea3a6c" resname="knowledge-engineering.name">
+                <source>knowledge-engineering.name</source>
+                <target><![CDATA[Knowledge (Engineering)]]></target>
+            </trans-unit>
+            <trans-unit id="c85fccf994a14eff64b9bf690c634cee" resname="knowledge-geography.name">
+                <source>knowledge-geography.name</source>
+                <target><![CDATA[Knowledge (Geography)]]></target>
+            </trans-unit>
+            <trans-unit id="f1f05af428b5460e7169d832c390bfa3" resname="knowledge-history.name">
+                <source>knowledge-history.name</source>
+                <target><![CDATA[Knowledge (History)]]></target>
+            </trans-unit>
+            <trans-unit id="153d8c9ed1f2dc648f524ee39d392e32" resname="knowledge-local.name">
+                <source>knowledge-local.name</source>
+                <target><![CDATA[Knowledge (Local)]]></target>
+            </trans-unit>
+            <trans-unit id="2c4e1bf7b063ff7b9ac81af72abc90b0" resname="knowledge-nature.name">
+                <source>knowledge-nature.name</source>
+                <target><![CDATA[Knowledge (Nature)]]></target>
+            </trans-unit>
+            <trans-unit id="b98d539a7739b29c090a58d531fcaefb" resname="knowledge-nobility.name">
+                <source>knowledge-nobility.name</source>
+                <target><![CDATA[Knowledge (Nobility)]]></target>
+            </trans-unit>
+            <trans-unit id="b0fc3fe5b9e2b2fac0019c6ff01a15de" resname="knowledge-planes.name">
+                <source>knowledge-planes.name</source>
+                <target><![CDATA[Knowledge (Planes)]]></target>
+            </trans-unit>
+            <trans-unit id="ec210bc4c981fa0b9f79ca592540971e" resname="knowledge-religion.name">
+                <source>knowledge-religion.name</source>
+                <target><![CDATA[Knowledge (Religion)]]></target>
+            </trans-unit>
+            <trans-unit id="2de8b6ceb464b818b83dd861a449cd84" resname="knowledge-linguistics.name">
+                <source>knowledge-linguistics.name</source>
+                <target><![CDATA[Linguistics]]></target>
+            </trans-unit>
+            <trans-unit id="c7b3a29ce91c79a8a8de5b0abd295ae6" resname="perception.name">
+                <source>perception.name</source>
+                <target><![CDATA[Perception]]></target>
+            </trans-unit>
+            <trans-unit id="bd189f6d144e3e9718b2aa661d9be8c7" resname="perform.name">
+                <source>perform.name</source>
+                <target><![CDATA[Perform]]></target>
+            </trans-unit>
+            <trans-unit id="0310c42b096f096aee9841b2c22617ff" resname="profession.name">
+                <source>profession.name</source>
+                <target><![CDATA[Profession]]></target>
+            </trans-unit>
+            <trans-unit id="448917f4e2d1ff0f7172204729ccccb4" resname="ride.name">
+                <source>ride.name</source>
+                <target><![CDATA[Ride]]></target>
+            </trans-unit>
+            <trans-unit id="9323af14b60021d25c02e0bf19f0b6ae" resname="sense-motive.name">
+                <source>sense-motive.name</source>
+                <target><![CDATA[Sense Motive]]></target>
+            </trans-unit>
+            <trans-unit id="2843d489b895f1bafc87944c02f696e5" resname="sleight-of-hand.name">
+                <source>sleight-of-hand.name</source>
+                <target><![CDATA[Sleight of Hand]]></target>
+            </trans-unit>
+            <trans-unit id="43fe95d040f17ff3c1edcdc24821efec" resname="spellcraft.name">
+                <source>spellcraft.name</source>
+                <target><![CDATA[Spellcraft]]></target>
+            </trans-unit>
+            <trans-unit id="6c1424ae1f4a9b5f5f03d5e188a963aa" resname="stealth.name">
+                <source>stealth.name</source>
+                <target><![CDATA[Stealth]]></target>
+            </trans-unit>
+            <trans-unit id="cc9ec1cd5c6708865dfdfc529a788c3f" resname="survival.name">
+                <source>survival.name</source>
+                <target><![CDATA[Survival]]></target>
+            </trans-unit>
+            <trans-unit id="db68771b7bf01893ed2def88edc853c4" resname="swim.name">
+                <source>swim.name</source>
+                <target><![CDATA[Swim]]></target>
+            </trans-unit>
+            <trans-unit id="03c1206d240610545c6a0225b47f70a4" resname="use-magic-device.name">
+                <source>use-magic-device.name</source>
+                <target><![CDATA[Use Magic Device]]></target>
+            </trans-unit>
+            <trans-unit id="c644b237e9f96ea4a875e4715d134096" resname="craft-alchemy.name">
+                <source>craft-alchemy.name</source>
+                <target><![CDATA[Craft (Alchemy)]]></target>
+            </trans-unit>
+            <trans-unit id="437df4b116b7061c16410a843c6a4ea5" resname="craft-armors.name">
+                <source>craft-armors.name</source>
+                <target><![CDATA[Craft (Armors)]]></target>
+            </trans-unit>
+            <trans-unit id="90a8178daac0c0f526ff80466d944267" resname="craft-bows.name">
+                <source>craft-bows.name</source>
+                <target><![CDATA[Craft (Bows)]]></target>
+            </trans-unit>
+            <trans-unit id="a15e749207fc27cd0ab5c18412d0aa39" resname="craft-weapons.name">
+                <source>craft-weapons.name</source>
+                <target><![CDATA[Craft (Weapons)]]></target>
+            </trans-unit>
+            <trans-unit id="99ce141ca87dfd102251354ff2f49db5" resname="craft-traps.name">
+                <source>craft-traps.name</source>
+                <target><![CDATA[Craft (Traps)]]></target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

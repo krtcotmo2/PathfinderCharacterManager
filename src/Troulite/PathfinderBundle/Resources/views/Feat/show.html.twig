@@ -1,14 +1,13 @@
 {% extends '::base.html.twig' %}
 
 {% block content -%}
-    <h1>{{ entity.name }}</h1>
+    <h1>{{ (entity ~ '.name')|trans({}, 'feats') }}</h1>
 
-    {% if entity.shortDescription %}
-        <p><em>{{ entity.shortDescription }}</em></p>
+    {% if (entity ~ '.shortdesc')|trans({}, 'feats') != entity ~ '.shortdesc' %}
+        <p><em>{{ (entity ~ '.shortdesc')|trans({}, 'feats')|raw }}</em></p>
     {% endif %}
-
-    {% if entity.longDescription %}
-        <p>{{ entity.longDescription|raw }}</p>
+    {% if (entity ~ '.longdesc')|trans({}, 'feats') != entity ~ '.longdesc' %}
+        <p>{{ (entity ~ '.longdesc')|trans({}, 'feats')|raw }}</p>
     {% endif %}
 
     <dl class="dl-horizontal">
@@ -47,6 +46,6 @@
                 Back to the list
             </a>
         </li>
-        <li><a href="{{ path('feats_edit', { 'id': entity.id }) }}">Edit</a></li>
+        <li><a href="{{ path('feats_edit', { 'id': entity.id }) }}">{{'edit'|trans  }}</a></li>
     </ul>
 {% endblock %}

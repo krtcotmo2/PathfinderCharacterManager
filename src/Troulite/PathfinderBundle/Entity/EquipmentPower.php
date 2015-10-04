@@ -60,16 +60,4 @@ class EquipmentPower extends ItemPower
     {
         return $this->cost;
     }
-
-    /**
-     * @return string
-     */
-    public function __toString()
-    {
-        if ($this->cost) {
-            return parent::__toString() . ' (+' . $this->cost . ')';
-        } else {
-            return parent::__toString();
-        }
-    }
 } 

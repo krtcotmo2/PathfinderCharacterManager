@@ -11,7 +11,7 @@
         <dt>{{ form_label(form) }}</dt>
         {% if form.vars.data %}
             <dd>
-                {{ form_label(form, form.vars.data, { 'label_attr': { 'style': 'font-weight: inherit' } }) }}
+                {{ form_label(form, form.vars.data ~ '.name', { 'translation_domain': 'items', 'label_attr': { 'style': 'font-weight: inherit' } }) }}
                 {% for child in form %}
                     {{ form_widget(child) }}
                     {{ form_label(child) }}
@@ -28,7 +28,7 @@
 
 {% block unequippeditem_row %}
     <li>
-        {{ form_label(form, form.vars.data, { 'label_attr': { 'style': 'font-weight: inherit' } }) }}
+        {{ form_label(form, form.vars.data ~ '.name', { 'translation_domain': 'items', 'label_attr': { 'style': 'font-weight: inherit' } }) }}
         {% if form.vars.data.quantity > 1 %}
             ({{ form.vars.data.quantity }})
         {% endif %}
@@ -128,7 +128,7 @@
 
 {% block troulite_pathfinderbundle_cast_spell_row %}
     <div class="form-group form-horizontal">
-        {{ form_label(form, form.vars.data.name, { 'label_attr': { 'class': 'control-label col-xs-6 col-sm-5' } }) }}
+        {{ form_label(form, form.vars.data ~ '.name', { 'translation_domain': 'spells', 'label_attr': { 'class': 'control-label col-xs-6 col-sm-5' } }) }}
         <div class="col-xs-4 col-sm-4">
             {{ form_widget(form.targets) }}
         </div>
@@ -308,7 +308,7 @@
 {% endblock %}
 
 {% block troulite_pathfinderbundle_classdefinition_class_spell_type_label %}
-    {{ form_label(form, form.vars.data.spell) }}
+    {{ form_label(form, form.vars.data.spell ~ '.name', {'translation_domain': 'spells'}) }}
 {% endblock %}
 
 {% block troulite_pathfinderbundle_classdefinition_class_spell_type_widget %}
@@ -317,4 +317,10 @@
             {{ form_widget(child) }}
         </div>
     {% endfor %}
+{% endblock %}
+
+{% block troulite_pathfinder_bundle_uncast_spell_label %}
+    <label class="control-label col-sm-3 required">
+        {{ (form.vars.label[0] ~ '.name')|trans({}, 'spells') }} ({{ form.vars.label[1] }})
+    </label>
 {% endblock %}

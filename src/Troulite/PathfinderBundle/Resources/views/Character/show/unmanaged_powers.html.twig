@@ -7,8 +7,8 @@
                 <th rowspan="{{ loop.length }}">{{ 'feats'|trans }}</th>
             {% endif %}
             <td>
-                {{ popovers.description(feat.feat.name, feat.feat) }}
-                {{ feat.feat }}
+                {{ popovers.description(feat.feat.name, feat.feat, 'feats') }}
+                {{ (feat.feat ~ '.name')|trans({}, 'feats') }}
             </td>
         </tr>
     {% endfor %}
@@ -18,8 +18,8 @@
                 <th rowspan="{{ loop.length }}">{{ 'class.powers'|trans }}</th>
             {% endif %}
             <td>
-                {{ popovers.description(power.classPower.name, power.classPower) }}
-                {{ power.classPower }}
+                {{ popovers.description(power.classPower.name, power.classPower, 'classpowers') }}
+                {{ (power.classPower ~ '.name')|trans({}, 'classpowers') }}
             </td>
         </tr>
     {% endfor %}
@@ -29,8 +29,8 @@
                 <th rowspan="{{ loop.length }}">{{ 'spells'|trans }}</th>
             {% endif %}
             <td>
-                {{ popovers.description(spellEffect.spell.name, spellEffect.spell) }}
-                {{ spellEffect.spell }}
+                {{ popovers.description(spellEffect.spell.name, spellEffect.spell, 'spells') }}
+                {{ (spellEffect.spell ~ '.name')|trans({}, 'spells') }}
             </td>
         </tr>
     {% endfor %}
@@ -40,8 +40,8 @@
                 <th rowspan="{{ loop.length }}">{{ 'powers'|trans }}</th>
             {% endif %}
             <td>
-                {{ popovers.description(powerEffect.power.name, powerEffect.spell) }}
-                {{ spellEffect.power }}
+                {{ popovers.description(powerEffect.power.name, powerEffect.spell, 'spells') }}
+                {{ (spellEffect.power ~ '.name')|trans({}, 'classpowers') }}
             </td>
         </tr>
     {% endfor %}

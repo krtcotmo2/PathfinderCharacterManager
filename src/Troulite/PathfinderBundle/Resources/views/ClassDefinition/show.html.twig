@@ -57,7 +57,7 @@
                     <td>
                         <ul>
                         {% for power in entity.powers if power.level == level + 1 %}
-                            <li>{{ power }}</li>
+                            <li>{{ (power ~ '.name')|trans({}, 'classpowers') }}</li>
                         {% endfor %}
                         </ul>
                     </td>
@@ -84,19 +84,27 @@
             </tbody>
         </table>
 
-        <h2>Powers</h2>
+        <h2>{{ 'powers'|trans }}</h2>
 
         {% for power in entity.powers %}
-            <h3>{{ power }}</h3>
+            <h3>{{ (power ~ '.name')|trans({}, 'classpowers') }}</h3>
 
-            {% if power.shortDescription %}<p>{{ power.shortDescription|raw }}</p>{% endif %}
-            {% if power.longDescription %}<p>{{ power.longDescription|raw }}</p>{% endif %}
+            {% if (power ~ '.shortdesc')|trans({}, 'classpowers') != power ~ '.shortdesc' %}
+                <p><em>{{ (power ~ '.shortdesc')|trans({}, 'classpowers')|raw }}</em></p>
+            {% endif %}
+            {% if (power ~ '.longdesc')|trans({}, 'classpowers') != power ~ '.longdesc' %}
+                <p>{{ (power ~ '.longdesc')|trans({}, 'classpowers')|raw }}</p>
+            {% endif %}
 
             {% if power.children and power.children|length > 0 %}
                 {% for child in power.children %}
-                    <h4>{{ child }}</h4>
-                    {% if child.shortDescription %}<p>{{ child.shortDescription|raw }}</p>{% endif %}
-                    {% if child.longDescription %}<p>{{ child.longDescription|raw }}</p>{% endif %}
+                    <h4>{{ (child ~ '.name')|trans({}, 'classpowers') }}</h4>
+                    {% if (child ~ '.shortdesc')|trans({}, 'classchilds') != child ~ '.shortdesc' %}
+                        <p><em>{{ (child ~ '.shortdesc')|trans({}, 'classpowers')|raw }}</em></p>
+                    {% endif %}
+                    {% if (child ~ '.longdesc')|trans({}, 'classpowers') != child ~ '.longdesc' %}
+                        <p>{{ (child ~ '.longdesc')|trans({}, 'classpowers')|raw }}</p>
+                    {% endif %}
                 {% endfor %}
             {% endif %}
         {% endfor %}
@@ -114,8 +122,8 @@
             <tbody>
             {% for spellClass in entity.spells %}
                 <tr>
-                    <td>{{ spellClass.spell }}</td>
-                    <td>{{ spellClass.spell.shortDescription }}</td>
+                    <td>{{ (spellClass.spell ~ '.name')|trans({}, 'spells') }}</td>
+                    <td>{{ (spellClass.spell ~ '.shortdesc')|trans({}, 'spells') }}</td>
                     <td>{{ spellClass.spellLevel }}</td>
                 </tr>
             {% endfor %}
